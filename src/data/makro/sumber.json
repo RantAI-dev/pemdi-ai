@@ -1,0 +1,494 @@
+[
+  {
+    "id": "bps-tubaba-dalam-angka-2026",
+    "judul": "Kabupaten Tulang Bawang Barat Dalam Angka 2026",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-dalam-angka-2026.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "gini",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 6959
+  },
+  {
+    "id": "bps-tubaba-dalam-angka-2025",
+    "judul": "Kabupaten Tulang Bawang Barat Dalam Angka 2025",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-dalam-angka-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "gini",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 19382
+  },
+  {
+    "id": "bps-tubaba-dalam-angka-2024",
+    "judul": "Kabupaten Tulang Bawang Barat Dalam Angka 2024",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2024,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-dalam-angka-2024.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 4648
+  },
+  {
+    "id": "bps-tubaba-dalam-angka-2023",
+    "judul": "Kabupaten Tulang Bawang Barat Dalam Angka 2023",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2023,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-dalam-angka-2023.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 6734
+  },
+  {
+    "id": "bps-tubaba-pdrb-lu-2021-2025",
+    "judul": "Produk Domestik Regional Bruto Kabupaten Tulang Bawang Barat Menurut Lapangan Usaha 2021–2025",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-pdrb-lu-2021-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 11099
+  },
+  {
+    "id": "bps-tubaba-pdrb-peng-2021-2025",
+    "judul": "Produk Domestik Regional Bruto Kabupaten Tulang Bawang Barat Menurut Pengeluaran 2021–2025",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-pdrb-peng-2021-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 3442
+  },
+  {
+    "id": "bps-tubaba-pdrb-lu-2020-2024",
+    "judul": "Produk Domestik Regional Bruto Kabupaten Tulang Bawang Barat Menurut Lapangan Usaha 2020-2024",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-pdrb-lu-2020-2024.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 2334
+  },
+  {
+    "id": "bps-tubaba-pdrb-peng-2020-2024",
+    "judul": "Produk Domestik Regional Bruto Kabupaten Tulang Bawang Barat Menurut Pengeluaran 2020-2024",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-pdrb-peng-2020-2024.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 6811
+  },
+  {
+    "id": "bps-tubaba-pdrb-lu-2019-2023",
+    "judul": "Produk Domestik Regional Bruto Kabupaten Tulang Bawang Barat Menurut Lapangan Usaha 2019-2023",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2024,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-pdrb-lu-2019-2023.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 2030
+  },
+  {
+    "id": "bps-tubaba-pdrb-peng-2019-2023",
+    "judul": "Produk Domestik Regional Bruto Kabupaten Tulang Bawang Barat Menurut Pengeluaran 2019-2023",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2024,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-pdrb-peng-2019-2023.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 10658
+  },
+  {
+    "id": "bps-tubaba-ikr-2025",
+    "judul": "Indikator Kesejahteraan Rakyat Kabupaten Tulang Bawang Barat 2025",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-ikr-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "ipm",
+      "tpt",
+      "kemiskinan"
+    ],
+    "ukuranKb": 2875
+  },
+  {
+    "id": "bps-tubaba-ikr-2024",
+    "judul": "Indikator Kesejahteraan Rakyat Kabupaten Tulang Bawang Barat 2024",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2024,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-ikr-2024.pdf",
+    "dokId": null,
+    "indikator": [
+      "ipm",
+      "tpt",
+      "kemiskinan"
+    ],
+    "ukuranKb": 2235
+  },
+  {
+    "id": "bps-tubaba-ikr-2023",
+    "judul": "Indikator Kesejahteraan Rakyat Kabupaten Tulang Bawang Barat Tahun 2023",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2023,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-ikr-2023.pdf",
+    "dokId": null,
+    "indikator": [
+      "ipm",
+      "tpt",
+      "kemiskinan"
+    ],
+    "ukuranKb": 10610
+  },
+  {
+    "id": "bps-tubaba-potret-kemiskinan-2025",
+    "judul": "Potret Kemiskinan Kabupaten Tulang Bawang Barat: Cerita, Data, dan Arah Pengurangan Kemiskinan",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-potret-kemiskinan-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "kemiskinan"
+    ],
+    "ukuranKb": 5128
+  },
+  {
+    "id": "bps-tubaba-rekam-jejak-pembangunan-2020-2024",
+    "judul": "Rekam Jejak Pembangunan Kabupaten Tulang Bawang Barat 2020-2024",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-rekam-jejak-pembangunan-2020-2024.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 1121
+  },
+  {
+    "id": "bps-tubaba-statistik-kesejahteraan-rakyat-2025",
+    "judul": "Statistik Kesejahteraan Rakyat Kabupaten Tulang Bawang Barat 2025",
+    "penerbit": "BPS Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-tubaba-statistik-kesejahteraan-rakyat-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "kemiskinan",
+      "ipm"
+    ],
+    "ukuranKb": 7880
+  },
+  {
+    "id": "bps-lampung-dalam-angka-2026",
+    "judul": "Provinsi Lampung Dalam Angka 2026",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-dalam-angka-2026.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 26184
+  },
+  {
+    "id": "bps-lampung-ipm-2025",
+    "judul": "Indeks Pembangunan Manusia Provinsi Lampung 2025",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-ipm-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "ipm"
+    ],
+    "ukuranKb": 1639
+  },
+  {
+    "id": "bps-lampung-tinjauan-ekonomi-regional-2025",
+    "judul": "Tinjauan Ekonomi Regional Kabupaten/Kota Provinsi Lampung 2025",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-tinjauan-ekonomi-regional-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "pdrb_per_kapita",
+      "pertumbuhan_ekonomi"
+    ],
+    "ukuranKb": 5626
+  },
+  {
+    "id": "bps-lampung-indikator-makro-tw2-2026",
+    "judul": "Perkembangan Indikator Makro Sosial Ekonomi Lampung Triwulan II-2026",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-indikator-makro-tw2-2026.pdf",
+    "dokId": null,
+    "indikator": [
+      "kemiskinan",
+      "gini",
+      "tpt",
+      "ipm"
+    ],
+    "ukuranKb": 5855
+  },
+  {
+    "id": "bps-lampung-statkesra-2025",
+    "judul": "Statistik Kesejahteraan Rakyat Provinsi Lampung 2025",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-statkesra-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "kemiskinan",
+      "ipm"
+    ],
+    "ukuranKb": 8823
+  },
+  {
+    "id": "bps-lampung-brs-gini-maret-2024",
+    "judul": "BRS: Pada Maret 2024, tingkat ketimpangan pengeluaran penduduk Lampung (Gini Ratio) sebesar 0,302",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2024,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-brs-gini-maret-2024.pdf",
+    "dokId": null,
+    "indikator": [
+      "gini"
+    ],
+    "ukuranKb": 6138
+  },
+  {
+    "id": "bps-lampung-brs-gini-maret-2025",
+    "judul": "BRS: Pada Maret 2025, Gini Ratio Lampung sebesar 0,292",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-brs-gini-maret-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "gini"
+    ],
+    "ukuranKb": 6495
+  },
+  {
+    "id": "bps-lampung-brs-gini-september-2025",
+    "judul": "BRS: Gini Ratio September 2025 tercatat sebesar 0,287",
+    "penerbit": "BPS Provinsi Lampung",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-lampung-brs-gini-september-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "gini"
+    ],
+    "ukuranKb": 7167
+  },
+  {
+    "id": "bps-nasional-statistik-indonesia-2026",
+    "judul": "Statistik Indonesia 2026 (Statistical Yearbook of Indonesia 2026)",
+    "penerbit": "BPS",
+    "tahunTerbit": 2026,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-nasional-statistik-indonesia-2026.pdf",
+    "dokId": null,
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "gini",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 12496
+  },
+  {
+    "id": "bps-nasional-statistik-indonesia-2025",
+    "judul": "Statistik Indonesia 2025 (Statistical Yearbook of Indonesia 2025)",
+    "penerbit": "BPS",
+    "tahunTerbit": 2025,
+    "jenis": "bps",
+    "href": "/api/sumber/bps/bps-nasional-statistik-indonesia-2025.pdf",
+    "dokId": null,
+    "indikator": [
+      "gini"
+    ],
+    "ukuranKb": 16525
+  },
+  {
+    "id": "rpjmd-2025-2029",
+    "judul": "Peraturan Daerah Kabupaten Tulang Bawang Barat tentang Rencana Pembangunan Jangka Menengah Daerah Tahun 2025–2029",
+    "penerbit": "Bappeda Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "rpjmd",
+    "href": "/api/dokumen/b268f44dbfce/berkas",
+    "dokId": "b268f44dbfce",
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "gini",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 10309
+  },
+  {
+    "id": "a210a82e0fe7",
+    "judul": "File Perda RPJPD TUBABA 2025-2045 (sesuai Asli) (3).pdf",
+    "penerbit": "Badan Perencanaan Pembangunan Daerah",
+    "tahunTerbit": 2025,
+    "jenis": "dokumen",
+    "href": "/api/dokumen/a210a82e0fe7/berkas",
+    "dokId": "a210a82e0fe7",
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "gini",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 5593
+  },
+  {
+    "id": "0d8194ee8ee9",
+    "judul": "Kabupaten_Tulang_Bawang_Barat_Dalam_Angka_2024_REKAP_SEMUA_TABEL_RAPI.xlsx",
+    "penerbit": "Dinas Komunikasi, Informatika, Persandian dan Statistik",
+    "tahunTerbit": 2024,
+    "jenis": "dokumen",
+    "href": "/api/dokumen/0d8194ee8ee9/berkas",
+    "dokId": "0d8194ee8ee9",
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 328
+  },
+  {
+    "id": "2c43fa2aa3ee",
+    "judul": "Kabupaten_Tulang_Bawang_Barat_Dalam_Angka_2023_REKAP_SEMUA_TABEL_EDITABLE.xlsx",
+    "penerbit": "Dinas Komunikasi, Informatika, Persandian dan Statistik",
+    "tahunTerbit": 2023,
+    "jenis": "dokumen",
+    "href": "/api/dokumen/2c43fa2aa3ee/berkas",
+    "dokId": "2c43fa2aa3ee",
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 154
+  },
+  {
+    "id": "523fd0fd2a02",
+    "judul": "Kabupaten_Tulang_Bawang_Barat_Dalam_Angka_2022_REKAP_76_TABEL_EDITABLE_FINAL.xlsx",
+    "penerbit": "Dinas Komunikasi, Informatika, Persandian dan Statistik",
+    "tahunTerbit": 2022,
+    "jenis": "dokumen",
+    "href": "/api/dokumen/523fd0fd2a02/berkas",
+    "dokId": "523fd0fd2a02",
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 227
+  },
+  {
+    "id": "8db52c98b82f",
+    "judul": "Data Kebutuhan Indikator MAKRO DAN IKK.xlsx",
+    "penerbit": "Badan Perencanaan Pembangunan Daerah",
+    "tahunTerbit": null,
+    "jenis": "dokumen",
+    "href": "/api/dokumen/8db52c98b82f/berkas",
+    "dokId": "8db52c98b82f",
+    "indikator": [
+      "pertumbuhan_ekonomi",
+      "tpt",
+      "kemiskinan",
+      "ipm",
+      "gini",
+      "pdrb_per_kapita"
+    ],
+    "ukuranKb": 46
+  }
+]

@@ -1,0 +1,76 @@
+/* Theme: the RantAI Lakehouse design tokens (design-system/tokens, copied
+   from that repository), wired the way its own globals.css does. */
+@import "tailwindcss";
+@import "tw-animate-css";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+@import "../../design-system/tokens/colors.css";
+@import "../../design-system/tokens/spacing.css";
+@import "../../design-system/tokens/theme.css";
+@import "../../design-system/tokens/animations.css";
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  button:not(:disabled),
+  summary,
+  label[for] {
+    cursor: pointer;
+  }
+  th {
+    font-weight: 500;
+  }
+  code {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Status colours for maturity predicates and data states. Reserved: never
+   used as a chart series colour. */
+:root {
+  --status-good: #0d9488;
+  --status-warning: #d97706;
+  --status-serious: #dc2626;
+  --status-none: oklch(0.723 0.014 214.4);
+  /* Fill of score bars: readable on the light surface and on the dark one. */
+  --bar: #1d6fb8;
+}
+.dark {
+  --status-good: #2dd4bf;
+  --status-warning: #fbbf24;
+  --status-serious: #f87171;
+  --bar: #5cb6f9;
+}
+
+/* Dashboard Pemdi: one hue per framework (validated light and dark), the
+   sequential blue for magnitude, and a neutral for reference series. */
+:root {
+  --viz-makro: #2a78d6;
+  --viz-spm: #1baf7a;
+  --viz-prosn: #6250d6;
+  --viz-pemdi: #eb6834;
+  --viz-ref: #c9ccd1;
+  --viz-grid: rgba(0, 0, 0, 0.06);
+  --viz-ink: #71717a;
+}
+.dark {
+  --viz-makro: #3987e5;
+  --viz-spm: #199e70;
+  --viz-prosn: #9085e9;
+  --viz-pemdi: #d95926;
+  --viz-ref: #4b5058;
+  --viz-grid: rgba(255, 255, 255, 0.07);
+  --viz-ink: #a1a1aa;
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "no": 1,
+    "judul": "Tingkat Kematangan Tata Kelola Pemerintah Digital",
+    "deskripsi": "Tata kelola Pemdi adalah kerangka kerja yang memastikan terlaksananya perencanaan, pelaksanaan, dan pengendalian dalam penerapan Pemdi secara terpadu. Tata Kelola Pemdi terdiri dari:\n1. Rencana Aksi Nasional Pemdi, sebagai referensi Rencana Aksi pada Instansi Pemerintah; dan\n2. Arsitektur Pemdi Instansi Pemerintah untuk transformasi tata kelola Pemdi untuk pembangunan nasional.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi untuk perencanaan pada Instansi Pemerintah dalam tahap penyusunan."
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Substansi Rencana Aksi Nasional Pemdi untuk perencanaan pada Instansi Pemerintah di tingkat mikro telah disusun.\n2. Pelaksanaan Rencana Aksi Pemdi dan penerapan Arsitektur Pemdi pada tingkat mikro telah dilakukan pada sebagian Layanan Digital Instansi Pemerintah, untuk mendukung transformasi tata kelola Pemdi dan pembangunan di lingkungan Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Langkah-langkah atau kegiatan nyata telah dilaksanakan, sesuai Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah.\n2. Telah memanfaatkan Arsitektur Pemdi, pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik, untuk mendukung transformasi tata kelola pelayanan publik dan pembangunan di lingkungan Instansi Pemerintah."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Telah dilakukan reviu atas Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah; dan\n2. Telah memanfaatkan Arsitektur Pemdi, pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik, serta telah dilakukan reviu, untuk mendukung transformasi tata kelola pelayanan publik dan pembangunan nasional."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Langkah-langkah atau kegiatan nyata telah dilaksanakan sesuai reviu atas Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah; dan\n2. Telah memanfaatkan reviu Arsitektur Pemdi, pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik, untuk mendukung transformasi tata kelola pelayanan publik dan pembangunan nasional."
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "judul": "Tingkat Kematangan Manajemen Layanan Digital Pemerintah",
+    "deskripsi": "Manajemen Layanan Digital Pemerintah adalah serangkaian proses untuk mendukung penyelenggaraan Layanan Digital Pemerintah yang berkualitas. Manajemen Layanan Digital Pemerintah yang dilaksanakan sesuai substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah terdiri dari:\n1. Manajemen Risiko;\n2. Manajemen Perubahan;\n3. Manajemen Pengetahuan;\n4. Manajemen Keberlangsungan; dan\n5. Manajemen Relasi Pengguna.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah masih dalam penyusunan dan Manajemen Layanan Digital Pemerintah dilaksanakan tingkat Instansi Pemerintah sesuai dengan kebutuhan."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah telah menjadi referensi arah pelaksanaan Manajemen Layanan Digital Pemerintah sesuai dengan pedoman Manajemen Layanan Digital Pemerintah, pada sebagian Layanan Digital Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah telah menjadi referensi arah pelaksanaan Manajemen Layanan Digital Pemerintah sesuai dengan pedoman Manajemen Layanan Digital Pemerintah, pada seluruh Layanan Digital Instansi Pemerintah."
+      },
+      {
+        "level": 4,
+        "kriteria": "Pelaksanaan Manajemen Layanan Digital Instansi Pemerintah telah dilakukan reviu secara menyeluruh."
+      },
+      {
+        "level": 5,
+        "kriteria": "Penerapan tindak lanjut sesuai reviu telah dilakukan secara menyeluruh pada Layanan Digital Instansi Pemerintah."
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "judul": "Tingkat Kematangan Sumber Daya Manusia Pemerintah Digital",
+    "deskripsi": "Kompetensi Sumber Daya Manusia (SDM) Pemdi adalah Kompetensi Digital Aparatur Sipil Negara (ASN) yang merupakan bagian dari Kompetensi Teknis ASN yang wajib dimiliki setiap pegawai ASN sesuai dengan jenis jabatan, jenjang jabatan, dan penugasan masing-masing. Kompetensi Digital ASN mencakup:\n1. Kepemimpinan Digital.\n2. Kemahiran Digital.\n3. Literasi Digital. sesuai dengan tugas dan fungsinya untuk meningkatkan kinerja dan produktivitas Instansi Pemerintah.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Dalam persiapan peningkatan kompetensi digital kepada ASN berbasis peta kompetensi untuk mencapai kompetensi digital optimal."
+      },
+      {
+        "level": 2,
+        "kriteria": "Telah melaksanakan peningkatan kompetensi digital kepada lebih dari 90% ASN pengelola untuk mencapai kompetensi digital optimal."
+      },
+      {
+        "level": 3,
+        "kriteria": "Telah melaksanakan peningkatan kompetensi digital kepada lebih dari 90% ASN pengelola maupun pengguna layanan digital, serta sumber daya lainnya secara menyeluruh untuk mencapai kompetensi digital optimal."
+      },
+      {
+        "level": 4,
+        "kriteria": "Telah memiliki kompetensi digital ASN untuk dapat memanfaatkan AI dan Analisis Data secara intensif dalam meningkatkan kinerja dan produktivitas Instansi Pemerintah."
+      },
+      {
+        "level": 5,
+        "kriteria": "Telah memiliki kompetensi digital ASN untuk dapat memanfaatkan AI, Analisis Data, dan teknologi mutakhir secara intensif dalam meningkatkan kinerja dan produktivitas Instansi Pemerintah, dalam rangka mendukung transformasi tata kelola Pemdi untuk pembangunan nasional."
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "judul": "Tingkat Kematangan Kolaborasi Pemerintah Digital",
+    "deskripsi": "Forum Koordinasi Pemdi merupakan wadah untuk pertukaran informasi dan peningkatan kapasitas pelaksanaan Pemdi bagi Instansi Pemerintah bersama dan tidak terbatas kepada akademisi, lembaga penelitian, pelaku usaha, industri, media, komunitas, dan organisasi masyarakat baik dalam negeri maupun luar negeri. Forum Koordinasi Pemdi dimanfaatkan untuk:\n1. Penyampaian ide/gagasan, penelitian, kajian, penyelesaian masalah, dan peningkatan kualitas pelaksanaan Pemdi.\n2. Penguatan Kebijakan, Tata Kelola, dan Manajemen Layanan Digital Pemerintah.\n3. Peningkatan Budaya dan Kompetensi Digital ASN.\n4. Penguatan Ketersediaan dan Pemanfaatan Data, serta Keamanan Pemdi.\n5. Penguatan Teknologi Pemdi untuk Transformasi Layanan Publik.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah masih dalam penyusunan mengenai kolaborasi antar unit kerja/perangkat daerah di Instansi Pemerintah di lingkungan instansi, dalam rangka peningkatan kualitas pelaksanaan Pemdi yang dilaksanakan secara terarah sesuai dengan kebutuhan."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah telah menjadi referensi dalam pelaksanaan kolaborasi antar Instansi Pemerintah hingga kolaborasi di tingkat nasional, dalam rangka peningkatan kualitas pelaksanaan Pemdi."
+      },
+      {
+        "level": 3,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah telah menjadi referensi dalam pelaksanaan kolaborasi antar Instansi Pemerintah, bersama dan tidak terbatas kepada akademisi, lembaga penelitian, pelaku usaha, industri, media, komunitas, dan organisasi masyarakat baik dalam negeri maupun luar negeri dalam penerapan Pemdi, serta bersifat partisipasi aktif para pihak (co-creation)."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Kolaborasi antar Instansi Pemerintah bersama dan tidak terbatas kepada akademisi, lembaga penelitian, pelaku usaha, industri, media, komunitas, dan organisasi masyarakat baik dalam negeri maupun luar negeri dalam penerapan Pemdi telah dilaksanakan secara terarah di tingkat Instansi Pemerintah, serta telah dilakukan reviu; dan/atau\n2. Kolaborasi antar Instansi Pemerintah dalam rangka koordinasi dan konsolidasi untuk memberikan layanan kepada Presiden melalui Dasbor Presiden."
+      },
+      {
+        "level": 5,
+        "kriteria": "Penerapan tindak lanjut sesuai reviu secara menyeluruh pada kegiatan kolaborasi Pemdi."
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "judul": "Tingkat Kematangan Tata Kelola Data",
+    "deskripsi": "Tata Kelola Data adalah kemampuan/ kapabilitas dari Instansi Pemerintah dalam menerapkan Tata Kelola Data melalui serangkaian proses Satu Data Indonesia dengan tujuan untuk menjamin terwujudnya data yang akurat, mutakhir, terintegrasi, dan dapat diakses sebagai dasar perencanaan, pelaksanaan, evaluasi, dan pengendalian pembangunan nasional, serta peningkatan kualitas penyelenggaraan Layanan Pemerintah.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Dalam tahap penyiapan untuk Penyelenggara SDI dan dokumentasi dasar terhadap inisiatif tata kelola data sesuai dengan prinsip SDI.\n2. Dalam tahap penyiapan mekanisme koordinasi atau regulasi internal dan berproses untuk pemanfaatan data pada Layanan Digital Pemerintah.\n3. 0 < SDI < 12,5"
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Sudah terbentuk penyelenggara SDI untuk inisiatif tata kelola data yang diproduksi oleh instansi, sesuai prinsip SDI.\n2. Sudah mulai menyusun metadata atau pembahasan standar data, namun belum terdokumentasi dengan baik atau belum berjalan konsisten.\n3. Sudah terdapat inisiatif pemanfaatan data untuk Layanan Digital Pemerintah.\n4. 12,5 < SDI < 37,5"
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Struktur kelembagaan dan regulasi dasar tata kelola data sudah tersedia.\n2. Sebagian besar data sudah memiliki standar data dan metadata.\n3. Memiliki sistem berbagi pakai data, namun interoperabilitas dan pemanfaatan data lintas sektor masih terbatas.\n4. 37,5 < SDI < 62,5"
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Hampir seluruh prinsip SDI telah diterapkan dengan baik dan konsisten dalam data yang di produksi Instansi.\n2. Terdapat integrasi sistem, data digunakan lintas instansi.\n3. Telah dilakukan evaluasi pemanfaatan data dalam kebijakan.\n4. 62,5 < SDI < 75; dan/atau\n5. Data sesuai yang dimiliki oleh Instansi Pemerintah telah dikelola dan dikonsolidasikan untuk mendukung Dasbor Presiden; dan/atau\n6. Dilakukan evaluasi pada Data yang telah dikelola dan dikonsolidasikan untuk mendukung Dasbor Presiden"
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Seluruh prinsip SDI telah diterapkan dengan baik, konsisten, dan berkelanjutan dalam data yang di produksi Instansi.\n2. Kelembagaan dan sistem sudah kuat.\n3. Integrasi sistem secara menyeluruh, dan telah memanfaatkan interoperabilitas data lintas instansi.\n4. Sudah dilakukan evaluasi secara menyeluruh dalam pemanfaatan data untuk Layanan Digital Pemerintah.\n5. Tata Kelola Data sesuai prinsip SDI telah menjadi bagian dari budaya kerja instansi;\n6. 75 < SDI < 100; dan/atau\n7. Dilakukan tindak lanjut hasil reviu pada Data yang telah dikelola dan dikonsolidasikan untuk mendukung Dasbor Presiden."
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "judul": "Tingkat Kematangan Penyelenggaraan Informasi Geospasial",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam berbagi pakai dan memanfaatkan data dan Informasi Geospasial (IG) dengan tujuan untuk menjamin terwujudnya data yang akurat, mutakhir, terintegrasi, dan dapat diakses sebagai dasar perencanaan, pelaksanaan, evaluasi, dan pengendalian pembangunan nasional, serta peningkatan kualitas penyelenggaraan Layanan Pemerintah. Indikator penilaian diselaraskan dengan Evaluasi Simpul Jaringan Informasi Geospasial (SJIG).",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Dalam tahap penyiapan tata kelola data dan kelembagaan diinisiasi dengan pembentukan tim atau kelompok kerja, dan telah ditugaskan personal penyelenggara IG secara khusus.\n2. Berbagi pakai data geospasial dengan dibangun geoportal sebagai platform integrasi dan berbagi pakai data dan pada layanan digital pemerintah.\n3. Dalam tahap penyiapan mekanisme koordinasi atau regulasi internal dan berproses untuk pelaksanaan penyelenggaraan pada Layanan Digital Pemerintah.\n4. 1 < SJIG < 1,50"
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Tata kelola dan kelembagaan penyelenggaraan telah ditetapkan melalui regulasi resmi.\n2. SDM pendukung berbagi pakai dan pemanfaatan telah ditetapkan melalui regulasi internal dan masih bersifat sementara.\n3. Sistem berbagi pakai dan pemanfaatan masih bersifat informasional dan telah dikelola secara mandiri.\n4. Sebagian yang dibagipakaikan telah memiliki metadata dan memenuhi standar serta telah digunakan dan terintegrasi dalam layanan dan proses perencanaan yang mendukung efisiensi dan efektivitas kegiatan operasional untuk sebagian Layanan Digital Pemerintah.\n5. 1,50 < SJIG < 2,50"
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Sudah terdapat Standar Operasi Prosedur (SOP) penyelenggaraan dengan mengutamakan pemanfaatan teknologi digital.\n2. Mekanisme koordinasi antar unit penyelenggara telah ditetapkan dan dilakukan melalui forum data.\n3. Telah memiliki SDM berlatar belakang kebumian atau teknologi informasi yang ditugaskan dalam penyelenggaraan.\n4. Telah memiliki perangkat produksi data geospasial (GPS, Theodolite, dll), perangkat keras dan perangkat lunak khusus untuk penyelenggaraan.\n5. Seluruh informasi geospasial yang dibagipakaikan telah memiliki metadata dan sesuai dengan standar, yang digunakan untuk mendukung efisiensi dan efektifitas kegiatan operasional untuk seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik.\n6. 2,50 < SJIG < 3,50"
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Telah memiliki rencana kerja atau roadmap penyelenggaraan, yang didalamnya tercakup berbagi pakai dan pemanfaatan, serta kerjasama dan kolaborasi dengan pihak eksternal.\n2. Memiliki SDM dengan Jabatan Fungsional Surveyor Pemetaan (ASN) dan profesional bidang (non ASN).\n3. Telah menerapkan proses manajemen kualitas dalam tata kelola penyelenggaraan.\n4. Memiliki aplikasi lain yang menggunakan dalam perencanaan dan layanan digital pemerintah.\n5. Pemanfaatan IG telah dievaluasi untuk integrasi ke proses pelayanan atau perencanaan.\n6. Sudah terdapat evaluasi SOP pemanfaatan IG.\n7. Sudah terdapat evaluasi pada sistem yang telah memanfaatkan IG.\n8. 3,50 < SJIG < 4,00"
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Telah dilakukan review secara berkala terhadap regulasi/kebijakan penyelenggaraan dan kelembagaan pengelola Simpul Jaringan IG berikut dengan program kerjanya, dalam rangka memperkuat berbagi pakai dan pemanfaatan untuk mendukung Perencanaan dan Layanan Digital Pemerintah.\n2. Telah dianggarkan secara rutin peningkatan dan pemeliharaan perangkat pendukung penyelenggaraan.\n3. Pelaksanaan berbagi pakai dan pemanfaatan telah menjadi bagian dari budaya kerja instansi.\n4. 4,00 < SJIG < 5,00"
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "judul": "Tingkat Kematangan Pembangunan Statistik",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam memanfaatkan Data Statistik dengan tujuan untuk menjamin terwujudnya data yang akurat, mutakhir, terintegrasi, dan dapat diakses sebagai dasar perencanaan, pelaksanaan, evaluasi, dan pengendalian pembangunan nasional, serta peningkatan kualitas penyelenggaraan Layanan Pemerintah. Indikator penilaian diselaraskan dengan Evaluasi Penyelenggaraan Statistik Sektoral (EPSS).",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Dalam proses penyelenggaraan Statistik Sektoral dilakukan oleh seluruh unit kerja.\n2. Instansi Pemerintah telah mengetahui kebutuhan proses tata kelola penyelenggaraan Statistik Sektoral. Namun, pelaksanaannya masih bersifat sementara (ad-hoc), yaitu dilaksanakan berdasarkan kepentingan sesaat atau sewaktu-waktu, tidak terorganisasi dengan baik, tidak dipantau, dan hasilnya tidak dapat diprediksi.\n3. Tidak semua pegawai di Instansi Pemerintah memahami tanggung jawab dan peran masing- masing dalam penyelenggaraan statistik sektoral.\n4. Kebijakan internal sebagai landasan pelaksanaan proses tata kelola penyelenggaraan Statistik Sektoral mungkin belum ada atau masih dalam bentuk konsep sehingga belum dapat diterapkan.\n5. IPS < 1,8"
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Proses penyelenggaraan statistik sektoral telah dilakukan oleh sebagian/seluruh unit kerja.\n2. Instansi Pemerintah melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral dengan dasar- dasar manajemen (perencanaan, pelaksanaan, evaluasi) yang telah didefinisikan dan didokumentasikan. Namun, setiap unit organisasi melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral tersebut berdasarkan persepsi, pemahaman, dan penerapan manajemen masing- masing.\n3. Pimpinan belum mengarahkan dan mengendalikan keterpaduan antar unit organisasi dalam melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral.\n4. 1,8 <= IPS < 2,60"
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Proses penyelenggaraan statistik sektoral telah dilakukan oleh seluruh unit kerja dan telah diharmonisasi.\n2. Instansi Pemerintah melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral dengan dasar- dasar manajemen (perencanaan, pelaksanaan, evaluasi) yang telah didefinisikan dan didokumentasikan.\n3. Pimpinan mampu mengendalikan keterpaduan antar unit organisasi dalam melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral. Namun, keselarasan antarproses tata kelola penyelenggaraan Statistik Sektoral masih menjadi kendala karena belum diintegrasikan.\n4. 2,60 <= IPS < 3,50"
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Proses penyelenggaraan statistik sektoral telah dilakukan oleh seluruh unit kerja, telah diharmonisasi, dan dilakukan secara terpadu.\n2. Instansi Pemerintah melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral dengan dasar- dasar manajemen (perencanaan, pelaksanaan, evaluasi) yang telah didefinisikan dan didokumentasikan.\n3. Pimpinan mampu mengendalikan keterpaduan antar unit organisasi dalam melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral. Telah ada proses integrasi untuk keselarasan antarproses tata kelola penyelenggaraan Statistik walaupun belum menyeluruh.\n4. 3,50 <= IPS < 4,20"
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Proses penyelenggaraan statistik sektoral telah dilakukan oleh seluruh unit kerja, telah diharmonisasi, dilakukan secara terpadu, dan berkontribusi pada kinerja organisasi.\n2. Instansi Pemerintah melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral dengan dasar- dasar manajemen (perencanaan, pelaksanaan, evaluasi) yang telah didefinisikan dan didokumentasikan.\n3. Pimpinan mampu mengendalikan keterpaduan antar unit organisasi dalam melaksanakan proses tata kelola penyelenggaraan Statistik Sektoral dan telah diintegrasikan secara menyeluruh dalam organisasi.\n4. Kinerja penyelenggaraan statistik sektoral dapat diukur melalui kegiatan reviu dan evaluasi pada setiap proses.\n5. Proses penyelenggaraan statistik sektoral telah dilakukan peningkatan kualitas berkesinambungan berdasarkan hasil reviu dan evaluasi.\n6. 4,20 < IPS < 5,00"
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "judul": "Tingkat Kematangan Pelindungan Data Pribadi",
+    "deskripsi": "Tata Kelola Pelindungan Data Pribadi memuat aspek Sumber Daya Manusia dan Kebijakan sesuai amanat regulasi Pelindungan Data Pribadi. Sumber Daya Manusia:\n1. Pejabat/Petugas Pelindung Data Pribadi (PPDP)\n2. awareness dan sosialisasi\n3. Pengembangan kompetensi dan sertifikasi Kebijakan:\n1. Strategi Implementasi PDP\n2. Kebijakan Internal Pemrosesan Data Pribadi (memuat SOP/Kebijakan untuk semua siklus pemrosesan Data Pribadi dan Pemenuhan Hak Subjek Data Pribadi)\n3. Pemberitahuan PDP Penerapan teknis pelindungan data pribadi mencakup seluruh mekanisme proses dan kontrol yang dirancang untuk menjamin penerapan prinsip pelindungan data pribadi sepanjang siklus pemrosesan hidup data pribadi yang termasuk namun tidak terbatas pada:\n1. Sistem Pengendalian Teknis PDP;\n2. Manajemen respons hak subjek data;\n3. Pelaksanaan Perekaman Aktivitas Pemrosesan Data Pribadi; serta\n4. Manajemen risiko keamanan data pribadi dan penilaian dampak PDP.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Penerapan tata kelola dan teknis PDP masih bersifat ad- hoc (tanpa arah kebijakan organisasi implementasi PDP)."
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Penerapan tata kelola PDP dilaksanakan sesuai dengan rencana aksi implementasi PDP pada Layanan Digital Pemerintah yang diselenggarakan oleh Instansi Pemerintah.\n2. Penerapan teknis PDP dilaksanakan sesuai perencanaan pada sebagian Layanan Digital Pemerintah"
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Substansi perencanaan implementasi PDP termasuk dalam dengan Rencana Aksi Pemdi.\n2. Penerapan tata kelola PDP dilaksanakan sesuai perencanaan pada seluruh Layanan Digital Pemerintah.\n3. Penerapan teknis PDP dilaksanakan sesuai perencanaan pada seluruh Layanan Digital Pemerintah."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Evaluasi menyeluruh pada penerapan tata kelola PDP pada Layanan Digital Pemerintah.\n2. Evaluasi menyeluruh terhadap penerapan teknis PDP pada Layanan Digital Pemerintah yang diselenggarakan oleh Instansi pemerintah."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Tindak lanjut pada hasil evaluasi penerapan tata kelola PDP telah dilakukan secara menyeluruh.\n2. Tata kelola PDP telah menjadi budaya kerja dalam menyelenggarakan Layanan Digital Pemerintah.\n3. Tindak lanjut pada hasil evaluasi penerapan teknis PDP telah dilakukan secara menyeluruh."
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "judul": "Tingkat Kematangan Pelaksanaan Audit Keamanan Pemerintah Digital dan Teknologi Pemerintah Digital",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam pelaksanaan Audit Keamanan Pemdi dan Teknologi Pemdi di lingkungan Instansi Pemerintah sesuai dengan ketentuan standar dan tata cara pelaksanaan Audit Keamanan Pemdi dan Teknologi Pemdi.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Instansi Pemerintah telah membentuk Tim Audit dan Perencanaan Audit sesuai dengan substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah, serta Arsitektur Keamanan Pemdi dan Arsitektur Teknologi Pemdi."
+      },
+      {
+        "level": 2,
+        "kriteria": "Instansi Pemerintah telah melakukan Audit Keamanan Pemdi dan Teknologi Pemdi Internal dalam penyelenggaraan sebagian Layanan Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Instansi Pemerintah telah melakukan Audit Keamanan Pemdi dan Teknologi Pemdi Internal dalam penyelenggaraan sebagian Layanan Pemerintah.\n2. Tindak Lanjut atas hasil Audit Keamanan Pemdi dan Teknologi Pemdi Internal dalam penyelenggaraan Layanan Pemerintah telah dilaksanakan."
+      },
+      {
+        "level": 4,
+        "kriteria": "Audit Eksternal Keamanan Pemdi dan Teknologi Pemdi untuk layanan digital prioritas Instansi Pemerintah sesuai dengan telah dilaksanakan."
+      },
+      {
+        "level": 5,
+        "kriteria": "Tindak Lanjut atas hasil Audit Eksternal Keamanan Pemdi dan Teknologi Pemdi dalam penyelenggaraan Layanan Pemerintah telah dilaksanakan."
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "judul": "Tingkat Kematangan Keamanan Pemerintah Digital",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam menyelenggarakan keamanan Pemdi meliputi implementasi tata kelola dan manajemen keamanan informasi, serta implementasi kontrol teknis keamanan berdasarkan Instrumen Pengukuran Kematangan Keamanan Siber dan Sandi (IKASANDI).",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Dalam tahap penyusunan tata kelola dan manajemen keamanan informasi.\n2. Dalam tahap identifikasi Infrastruktur Informasi Vital oleh Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Instansi Pemerintah telah menerapkan tata kelola manajemen keamanan informasi sesuai dengan pedoman.\n2. Penerapan tata kelola manajemen keamanan informasi sesuai dengan substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah.\n3. Telah melakukan identifikasi Infrastruktur Informasi Vital."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Instansi Pemerintah telah menerapkan tata kelola manajemen keamanan informasi sesuai dengan pedoman.\n2. Telah melaksanakan implementasi kontrol teknis berdasarkan hasil kematangan keamanan siber."
+      },
+      {
+        "level": 4,
+        "kriteria": "Tata kelola manajemen keamanan Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala."
+      },
+      {
+        "level": 5,
+        "kriteria": "Penerapan tindak lanjut sesuai reviu atas Keamanan Pemdi Instansi Pemerintah melalui proses otomasi."
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "judul": "Tingkat Kematangan Penerapan Kriptografi untuk Keamanan Data",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam melakukan proteksi keamanan kerahasiaan data melalui penerapan fungsi kriptografi yang bersesuaian dengan standar keamanan modul kriptografi dan penerapan kriptografi secara nasional, baik untuk posisi data ketika disimpan (at-rest), digunakan (in-use), sampai pada data dipertukarkan (in-transit), dalam penyelenggaraan Layanan Digital Pemerintah.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Dalam tahap penyiapan penerapan teknologi kriptografi untuk keamanan data, sesuai dengan peraturan perundang-undangan."
+      },
+      {
+        "level": 2,
+        "kriteria": "Sudah menerapkan teknologi kriptografi sesuai dengan peraturan perundang-undangan pada sebagian Layanan Digital Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "Teknologi kriptografi telah diterapkan pada sebagian Layanan Digital Pemerintah di 2 (dua) siklus data."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Teknologi kriptografi telah diterapkan pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik di 2 (dua) siklus data.\n2. Telah dilakukan evaluasi pada penerapan teknologi kriptografi."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Penyelenggaraan Persandian telah terorganisir dan terkelola dengan baik secara menyeluruh dan berkelanjutan berdasarkan IKASANDI pada Area Kematangan Persandian.\n2. Telah melakukan tindak lanjut hasil evaluasi pada penerapan teknologi kriptografi."
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "judul": "Tingkat Kematangan Kapabilitas Penanganan Insiden Siber",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam Penanganan Insiden Siber secara komprehensif, terstruktur, dan terstandar berdasarkan IKASANDI pada Area Penanganan Insiden Siber, termasuk di dalamnya memanfaatkan Tim Tanggap Insiden Siber (TTIS) atau Computer Security Incident Response Team (CSIRT) di Instansi masing- masing hingga kolaborasi dengan TTIS Nasional.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Dalam tahap penyiapan untuk Penanganan Insiden Siber pada Layanan Digital Pemerintah.\n2. Penanganan Insiden Siber pada Layanan Digital Pemerintah dilaksanakan sesuai kebutuhan Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Instansi Pemerintah telah membentuk TTIS sesuai dengan pedoman dan perencanaan yang terarah.\n2. Penanganan insiden siber telah dilakukan oleh TTIS pada sebagian Layanan Digital Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Instansi Pemerintah telah melaksanakan Penanganan Insiden Siber melalui TTIS.\n2. Penanganan insiden siber telah dilakukan oleh TTIS pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Kapabilitas Penanganan Insiden Siber melalui TTIS Instansi Pemerintah telah direviu secara berkala.\n2. TTIS berpartisipasi aktif untuk berbagi informasi dan/atau sumber daya dengan TTIS lainnya dalam lingkup nasional."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Pelaksanaan penanganan insiden oleh TTIS Instansi Pemerintah telah dievaluasi untuk perbaikan berkelanjutan.\n2. Optimalisasi penanganan insiden siber Instansi Pemerintah memberikan dampak terhadap kapabilitas keamanan Pemdi nasional."
+      }
+    ]
+  },
+  {
+    "no": 13,
+    "judul": "Tingkat Kematangan Aplikasi Pemerintah Digital",
+    "deskripsi": "Aplikasi Pemdi adalah aplikasi, sistem informasi, sistem elektronik, platform digital, atau yang disebut dengan nama lain, selanjutnya disebut Aplikasi Pemdi adalah satu atau sekumpulan program komputer dan prosedur yang dirancang untuk menyelenggarakan dan/atau menghasilkan Layanan Digital Pemerintah. Pembangunan/pengembangan aplikasi merupakan suatu proses yang bersifat komprehensif sesuai dengan siklus pembangunan dan pengembangan aplikasi (Software Development Life Cycle/SDLC) yang selaras dengan Arsitektur Teknologi Pemdi, dengan menerapkan prinsip-prinsip pelaksanaan Pemdi. Siklus pembangunan dan pengembangan Aplikasi Pemdi terdiri atas:\n1. analisis kebutuhan;\n2. perencanaan;\n3. rancang bangun;\n4. implementasi;\n5. uji kelaikan;\n6. pemeliharaan; dan\n7. evaluasi",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi pada tingkat mikro dalam tahap penyusunan, sebagai referensi arah pembangunan/pengembangan aplikasi instansi."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi telah menjadi referensi arah pembangunan/pengembangan aplikasi instansi pada sebagian Layanan Digital Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi telah menjadi referensi arah pembangunan/pengembangan aplikasi instansi pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Pembangunan/pengembangan aplikasi telah mengintegrasikan seluruh aplikasi instansi serta mendukung Layanan Digital Pemerintah.\n2. Pelaksanaan pembangunan/ pengembangan Aplikasi Pemdi Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Pembangunan/pengembangan aplikasi telah mengintegrasikan seluruh aplikasi instansi, mendukung Layanan Digital Pemerintah, serta menerapkan seluruh manajemen Layanan Digital Pemerintah.\n2. Tindak Lanjut atas hasil reviu pelaksanaan pembangunan/ pengembangan Aplikasi Pemdi Instansi Pemerintah telah dilaksanakan."
+      }
+    ]
+  },
+  {
+    "no": 14,
+    "judul": "Tingkat Kematangan Infrastruktur Pemerintah Digital",
+    "deskripsi": "Infrastruktur Pemdi adalah semua perangkat keras, perangkat lunak, dan fasilitas yang menjadi penunjang utama untuk menjelaskan sistem, aplikasi, komunikasi data, pengolahan dan penyimpanan data, perangkat integrasi/penghubung, dan perangkat elektronik lainnya. Kemampuan/kapabilitas dari Instansi Pemerintah dalam menyelenggarakan Layanan Digital Instansi Pemerintah dengan mengutamakan Teknologi Awan (Cloud Technology) melalui pemanfaatan penyelenggaraan Infrastruktur Pemdi. Infrastruktur Digital Pemerintah merupakan bagian dari ekosistem Pemdi, terdiri atas fasilitas Infrastruktur Pemdi dan jaringan Infrastruktur Pemdi. Fasilitas Infrastruktur Pemdi terdiri atas:\n1. Ekosistem Pusat Data Nasional.\n2. Jaringan Intra Pemerintah.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi pada tingkat mikro dalam tahapan penyusunan, sebagai referensi pemanfaatan Infrastruktur Pemdi."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi telah menjadi referensi penyediaan Infrastruktur Digital Instansi serta sebagian Layanan Digital Instansi Pemerintah telah berbasis teknologi awan sesuai peraturan perundang-undangan yang berlaku."
+      },
+      {
+        "level": 3,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi telah menjadi referensi penyediaan Infrastruktur Digital Instansi serta seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah telah berbasis teknologi awan."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Penyediaan Infrastruktur Digital instansi telah terintegrasi dengan Infrastruktur Digital Pemerintah Nasional.\n2. Pelaksanaan Penyediaan Infrastruktur Digital Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Penyediaan Infrastruktur Digital instansi telah terintegrasi dan telah memanfaatkan Infrastruktur Digital Pemerintah Nasional, untuk menjamin keberlangsungan layanan digital.\n2. Tindak Lanjut atas hasil reviu pemanfaatan Infrastruktur Digital Pemerintah Nasional telah dilaksanakan."
+      }
+    ]
+  },
+  {
+    "no": 15,
+    "judul": "Keterpaduan Proses Bisnis Pemerintah Digital Lintas Unit dan Instansi",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam mewujudkan keterpaduan Layanan Digital Pemerintah melalui keterpaduan proses bisnis Pemdi berbasis Arsitektur Pemdi yang berorientasi pada kebutuhan pengguna, yang mencakup penyederhanaan proses bisnis, penggunaan teknologi digital, dan peningkatan efisiensi birokrasi, untuk transformasi tata kelola pelayanan publik dan pembangunan, dalam rangka memberikan layanan kepada masyarakat untuk setiap aspek kehidupan (Human-Based).",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Layanan Digital Pemerintah pada tingkat mikro dalam tahap penyusunan, sebagai referensi keterpaduan proses bisnis Pemdi Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Layanan Digital Pemerintah telah menjadi referensi keterpaduan proses bisnis Pemdi pada sebagian Layanan Digital Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Layanan Digital Pemerintah telah menjadi referensi keterpaduan proses bisnis Pemdi Instansi Pemerintah pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Keterpaduan proses bisnis Instansi Pemerintah telah menjadi bagian dari proses bisnis Pemdi lintas sektor di tingkat nasional.\n2. Keterpaduan proses bisnis Pemdi Instansi Pemerintah telah diterapkan pada seluruh aplikasi instansi serta mendukung Layanan Digital Pemerintah.\n3. Keterpaduan proses bisnis Pemdi untuk mendukung Layanan Digital Pemerintah Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based).\n4. Keterpaduan proses bisnis Pemdi untuk mendukung Layanan Digital Pemerintah Instansi Pemerintah telah mendukung budaya tertib arsip, menjadi arsip digital sebagai basis pemanfaatan Analisis Data."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Keterpaduan proses bisnis Pemdi Instansi Pemerintah telah menjadi bagian dari proses bisnis lintas sektor di tingkat nasional.\n2. Tindak Lanjut atas hasil reviu Pelaksanaan Keterpaduan Proses Bisnis Pemdi untuk mendukung Layanan Digital Pemerintah Instansi Pemerintah telah dilaksanakan, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based)."
+      }
+    ]
+  },
+  {
+    "no": 16,
+    "judul": "Integrasi Aplikasi",
+    "deskripsi": "Integrasi aplikasi adalah proses menghubungkan berbagai aplikasi dan sistem perangkat lunak agar dapat bekerja sama dan berbagi data secara holistik. Tujuannya untuk menciptakan ekosistem digital terpadu, efisien, dan menghilangkan hambatan operasional yang disebabkan oleh sistem yang terpisah. Dalam konteks Pemdi, proses ini memastikan data dan layanan yang ada di berbagai instansi atau unit kerja dapat saling terhubung dan digunakan untuk memberikan layanan publik yang terintegrasi dan efisien kepada masyarakat dan/atau layanan kepada Presiden melalui Presiden.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi pada tingkat mikro dalam tahapan penyusunan, sebagai referensi integrasi aplikasi Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi telah menjadi referensi integrasi aplikasi pada sebagian Layanan Digital Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Teknologi Pemdi telah menjadi referensi integrasi aplikasi pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah; dan/atau\n2. Instansi Pemerintah telah mengintegrasikan Aplikasi yang mendukung proses bisnis utama dengan Dasbor Presiden."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Integrasi Aplikasi Instansi Pemerintah telah diterapkan pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah serta mendukung Layanan Digital Pemerintah.\n2. Integrasi Aplikasi Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based); dan/atau\n3. Instansi Pemerintah telah mengintegrasikan Aplikasi sesuai dengan kebutuhan Dasbor Presiden; dan/atau\n4. Instansi Pemerintah telah melakukan reviu atas integrasi Aplikasi untuk mendukung Dasbor Presiden."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Integrasi Aplikasi Instansi Pemerintah telah diterapkan pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah serta mendukung Layanan Digital Pemerintah.\n2. Tindak Lanjut atas hasil reviu Pelaksanaan Integrasi Aplikasi Instansi Pemerintah telah dilaksanakan, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based); dan/atau\n3. Optimalisasi pelaksanaan Integrasi Aplikasi untuk peningkatan kualitas dan pengambilan keputusan pada Dasbor Presiden."
+      }
+    ]
+  },
+  {
+    "no": 17,
+    "judul": "Portal Layanan Digital Pemerintah",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah untuk menyelenggarakan Portal Pelayanan Publik yang mengonsolidasikan seluruh layanan kepada masyarakat di setiap tingkatan Instansi masing-masing, yang selanjutnya terintegrasi menjadi bagian Layanan Digital Pemerintah melalui Pemanfaatan Portal Nasional Pelayanan Publik.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Layanan Digital Pemerintah pada tingkat mikro dalam tahap penyusunan, sebagai referensi penerapan Portal Layanan Digital Pemerintah pada Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Layanan Digital Pemerintah telah menjadi referensi penerapan Portal Layanan Digital Pemerintah pada sebagian layanan digital berbasis siklus hidup Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Layanan Digital Pemerintah telah menjadi referensi penerapan Portal Layanan Digital Pemerintah pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik berbasis siklus hidup Instansi Pemerintah.\n2. Portal Layanan Digital Pemerintah untuk proses bisnis utama pada Instansi Pemerintah telah terintegrasi dengan Dasbor Presiden"
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Penerapan Portal Layanan Digital Pemerintah telah diterapkan pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah serta mendukung Portal Layanan Digital Pemerintah Nasional.\n2. Penerapan Portal Layanan Digital Pemerintah Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based); dan/atau\n3. Portal Layanan Digital Pemerintah untuk seluruh proses bisnis pada Instansi Pemerintah telah terintegrasi dengan Dasbor Presiden."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Penerapan Portal Layanan Digital Pemerintah telah diterapkan pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah serta mendukung Portal Layanan Digital Pemerintah nasional.\n2. Tindak Lanjut atas hasil reviu Pelaksanaan Integrasi Aplikasi Instansi Pemerintah telah dilaksanakan, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based); dan/atau\n3. Telah dilakukan peningkatan kualitas integrasi Portal Layanan Digital Pemerintah dengan Dasbor Presiden."
+      }
+    ]
+  },
+  {
+    "no": 18,
+    "judul": "Interoperabilitas Data",
+    "deskripsi": "Kemampuan/kapabilitas dari Instansi Pemerintah dalam mewujudkan keterpaduan data, pengurangan redundansi data, penggunaan teknologi digital, dan peningkatan efisiensi birokrasi.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Data Pemdi pada tingkat mikro dalam tahap penyusunan, sebagai referensi penerapan interoperabilitas data pada Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Data Pemdi telah menjadi referensi penerapan interoperabilitas data pada sebagian Layanan Digital Pemerintah Instansi Pemerintah."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Substansi Rencana Aksi Nasional Pemdi pada perencanaan Instansi Pemerintah dan Arsitektur Data Pemdi telah menjadi referensi penerapan interoperabilitas data pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah; dan/atau\n2. Penerapan interoperabilitas sebagian data Instansi Pemerintah yang dibutuhkan untuk mendukung Dasbor Presiden."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Penerapan interoperabilitas data telah diterapkan pada seluruh Layanan Digital Pemerintah prioritas dan/atau Layanan Digital Pemerintah tematik Instansi Pemerintah serta mendukung Satu Data Indonesia.\n2. Instansi Pemerintah telah menerapkan interoperabilitas data secara luas, memungkinkan pertukaran data secara waktu nyata (real-time) untuk mendukung transformasi tata kelola pelayanan publik dan pembangunan yang efisien serta lintas sektor.\n3. Penerapan interoperabilitas data Instansi Pemerintah telah terorganisir, terkelola secara terpadu, dan optimal, serta dilaksanakan reviu secara berkala, untuk transformasi tata kelola pelayanan publik dan pembangunan nasional, dalam memberikan layanan kepada masyarakat di setiap aspek kehidupan (Human-Based); dan/atau\n4. Penerapan interoperabilitas seluruh data Instansi Pemerintah yang dibutuhkan untuk mendukung Dasbor Presiden; dan/atau\n5. Telah dilakukan reviu atas Penerapan interoperabilitas data Instansi Pemerintah untuk mendukung Dasbor Presiden."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Instansi Pemerintah telah mencapai interoperabilitas data yang komprehensif, untuk mendukung transformasi tata kelola pelayanan publik dan pembangunan yang terintegrasi, adaptif, serta menjadi contoh bagi instansi lain; dan/atau\n2. Telah dilakukan peningkatan kualitas atas penerapan interoperabilitas data Instansi Pemerintah yang dibutuhkan untuk mendukung Dasbor Presiden."
+      }
+    ]
+  },
+  {
+    "no": 19,
+    "judul": "Fasilitas Dukungan Pengguna Layanan Digital Pemerintah",
+    "deskripsi": "Dukungan Pengguna Layanan Digital Pemerintah dilakukan untuk mencapai tingkat pemenuhan Kualitas Layanan Digital (Service Level Agreement/SLA) pada Instansi Pemerintah, untuk Layanan Administrasi Pemerintahan dan Pelayanan Publik Digital yang merupakan layanan utama dari Instansi, melalui pemenuhan standar yang telah disepakati dengan pengguna, seperti kecepatan, ketersediaan, dan waktu respons.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Dalam tahap penyusunan Fasilitas Dukungan Pengguna Layanan Digital Instansi Pemerintah.\n2. Dalam tahap penyusunan SOP Layanan Digital Instansi Pemerintah dengan informasi rinci SLA.\n3. Dalam tahap pengembangan Sistem pemantauan pemenuhan dan kepatuhan SLA yang menjadi satu kesatuan dan terotomasi pada Layanan Digital Instansi Pemerintah."
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Telah memiliki Fasilitas Dukungan Pengguna Layanan Digital Instansi Pemerintah.\n2. Telah memiliki SOP Layanan Digital Instansi Pemerintah dengan informasi rinci SLA.\n3. Telah memiliki sistem pemantauan pemenuhan SLA Layanan Digital Instansi Pemerintah yang terotomatisasi."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Telah memiliki Fasilitas Dukungan Pengguna Layanan Digital Instansi Pemerintah yang telah terintegrasi dengan dukungan layanan pengguna di tingkat nasional.\n2. Telah memiliki SLA Layanan Digital Instansi Pemerintah yang sama dengan Layanan Digital Pemerintah di tingkat nasional.\n3. Telah memiliki sistem pemantauan pemenuhan SLA Layanan Digital Instansi Pemerintah yang telah terintegrasi ke tingkat nasional."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Telah melaksanakan reviu dan evaluasi dari pemenuhan SLA Layanan Digital Instansi Pemerintah.\n2. Pelaksanaan reviu dan evaluasi terhadap Fasilitas Dukungan Pengguna Layanan Digital Instansi Pemerintah dan sistem pemantauan pemenuhan SLA."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Tindak Lanjut atas hasil reviu pelaksanaan pemenuhan SLA telah dilaksanakan.\n2. Tindak lanjut atas hasil reviu Fasilitas Dukungan Pengguna Layanan Digital Instansi Pemerintah dan Sistem pemantauan pemenuhan SLA telah dilaksanakan."
+      }
+    ]
+  },
+  {
+    "no": 20,
+    "judul": "Tingkat Pengelolaan Kepuasan Pengguna Layanan Digital Pemerintah",
+    "deskripsi": "Pencapaian tingkat kepuasan pengguna terhadap Layanan Digital Pemerintah Instansi, baik untuk Layanan Administrasi Pemerintahan dan Pelayanan Publik yang merupakan layanan berdasarkan tugas dan fungsi utama (proses bisnis utama) di Instansi Pusat dan layanan sektoral kepada masyarakat di Instansi Daerah, melalui penilaian kepuasan pengguna dengan metode tertentu dan mengutamakan strategi penilaian yang terintegrasi dengan layanan digital.",
+    "tingkat": [
+      {
+        "level": 1,
+        "kriteria": "1. Memanfaatkan Survei Kepuasan Masyarakat (SKM) Online sesuai dengan Pedoman Menteri tentang pelaksanaan survei kepuasan masyarakat secara daring dalam mengukur tingkat Kepuasan Pengguna Layanan Digital Pemerintah.\n2. Kepuasan Pengguna Layanan Digital Pemerintah telah disebarkan melalui kanal resmi digital instansi (website, aplikasi, dan media sosial).\n3. Kanal umpan balik dua arah tersedia dan aktif (misalnya formulir saran digital, email layanan, dan komentar publik) yang telah ditindak lanjuti.\n4. Survei sudah menyasar minimal 1 kelompok rentan (misalnya penyandang disabilitas, lansia, atau perempuan) yang telah ditindak lanjuti."
+      },
+      {
+        "level": 2,
+        "kriteria": "1. Tersedia widget atau fitur umpan balik sederhana di layanan digital sebagai kanal akomodasi kebutuhan pengguna (contoh: pop-up rating, tombol “Berikan Masukan”).\n2. Skor kepuasan pengguna telah digunakan untuk perbaikan Layanan Digital Instansi Pemerintah.\n3. Survei dan masukan pengguna diproses secara berkala (minimal triwulanan) dan menjadi bagian dari evaluasi manajemen instansi.\n4. Mulai diterapkan penilaian mandiri kepuasan pengguna setiap Layanan Digital Instansi Pemerintah.\n5. Pelibatan pengguna dan Organisasi Masyarakat Sipil (Civil Society Organization/CSO) yang memiliki keahlian terkait Layanan Digital."
+      },
+      {
+        "level": 3,
+        "kriteria": "1. Telah membentuk tim teknis dalam pengelolaan pengalaman dan kepuasan pengguna Layanan Digital Instansi Pemerintah.\n2. Semua Layanan Digital Instansi Pemerintah memiliki mekanisme umpan balik secara langsung (widget, chatbot, ulasan pengguna, dsb.).\n3. Survei kepuasan pengguna dipublikasikan secara daring dalam bentuk dasbor untuk setiap Layanan Digital Instansi Pemerintah.\n4. Telah dilaksanakan mystery guest/mystery shopper atas Layanan Instansi Pemerintah yang telah memanfaatkan teknologi digital oleh Instansi Pemerintah.\n5. Survei dan data kepuasan digunakan dalam evaluasi pelaksanaan Pemdi dan dilaporkan secara berkala pada publik."
+      },
+      {
+        "level": 4,
+        "kriteria": "1. Desain ulang layanan dilakukan secara periodik berbasis hasil survei dan umpan balik digital pengguna.\n2. Log perubahan layanan dipublikasikan sebagai bentuk akuntabilitas atas masukan publik.\n3. Memanfaatkan Forum Konsultasi Publik sebagai ruang temu daring pengguna dan penyedia layanan, minimal tiap semester.\n4. Telah dilaksanakan mystery guest/mystery shopper audit atas Layanan Instansi Pemerintah yang telah memanfaatkan teknologi digital oleh Instansi Pemerintah dengan berkoordinasi terlebih dahulu dengan instansi pembina atau Instansi Daerah setingkat lebih tinggi.\n5. Pemanfaatan Kecerdasan Artifisial dan Analisis Data untuk menganalisis sentimen pengguna, digunakan dalam evaluasi pelaksanaan Pemdi."
+      },
+      {
+        "level": 5,
+        "kriteria": "1. Telah memanfaatkan pengukuran tingkat kepuasan pengguna dengan mekanisme tepercaya untuk menjaga kredibilitas penilaian pada semua Layanan Digital Instansi Pemerintah.\n2. Data riwayat perubahan layanan berbasis kebutuhan pengguna, digunakan dalam evaluasi pelaksanaan Pemdi dan dilaporkan kepada publik secara berkala."
+      }
+    ]
+  }
+]

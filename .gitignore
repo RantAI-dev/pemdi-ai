@@ -1,0 +1,20 @@
+node_modules/
+.next/
+.env
+.env.local
+infra/lakehouse.env
+/data/
+*.tsbuildinfo
+__pycache__/
+.venv/
+.next-new/
+.next-old/
+deploy/stack*.yml
+
+# Data mentah dan berkas sumber: besar dan bisa memuat data pribadi.
+# Disimpan di volume Portainer (scripts/portainer.sh sumber), bukan di git.
+TBB/
+sumber/**
+!sumber/**/
+!sumber/*/manifest.json
+!sumber/*.txt

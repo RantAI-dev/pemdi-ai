@@ -1,0 +1,715 @@
+{
+  "catatan": "Ekstraksi tangan capaian SPM Kabupaten Tulang Bawang Barat. Setiap baris disalin langsung dari tabel PDF yang dibaca ulang dengan pdftotext -layout; angka desimal dipertahankan seperti tercetak (sebagian memakai titik, sebagian koma). Halaman adalah halaman fisik PDF, halamanCetak adalah nomor halaman yang tercetak di dokumen. Tidak ada angka yang dihitung atau diisi sendiri: sel yang tidak dilaporkan ditulis null.",
+  "kategori": {
+    "catatan": "Sumber (Perbup 18/2026 Tabel 2.105) hanya mencantumkan nama kategori, tanpa ambang angka. Karena itu src/lib/spm-hitung.ts memakai pita yang diminta kontrak (Tuntas 100, Hampir tuntas >= 90, Belum tuntas < 90), bukan nama Tuntas Pratama/Madya/Utama.",
+    "terbaca": [
+      { "tahun": 2021, "indeks": 74.13, "kategori": "Tuntas Pratama" },
+      { "tahun": 2022, "indeks": 86.59, "kategori": "Tuntas Madya" },
+      { "tahun": 2023, "indeks": 90.67, "kategori": "Tuntas Utama" },
+      { "tahun": 2024, "indeks": 96.5, "kategori": "Tuntas Utama" },
+      { "tahun": 2025, "indeks": 96.59, "kategori": "Tuntas Utama" }
+    ]
+  },
+  "tabel": [
+    {
+      "id": "rpjmd-2.104",
+      "sumber": "rpjmd-2025-2029",
+      "halaman": 186,
+      "halamanCetak": 164,
+      "judul": "Tabel 2.104. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Pendidikan Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.104 Capaian Pelaksanaan SPM Bidang Pendidikan, hlm. 164 (PDF hlm. 186)",
+      "tahun": [2019, 2020, 2021, 2022, 2023, 2024],
+      "catatan": "Kolom 2019-2024; 2020 tercetak N/A (tidak dilaporkan).",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "pendidikan",
+          "label": "capaian rata-rata SPM bidang pendidikan",
+          "jenis": "indeks",
+          "nilai": [72.1, null, 87.21, 95.75, 94.32, 94.99],
+          "kutipan": "Capaian Rata-rata SPM % 72,10 N/A 87,21 95,75 94,32 94,99"
+        },
+        {
+          "layanan": "pendidikan-dasar",
+          "bidang": "pendidikan",
+          "label": "Pendidikan Dasar",
+          "jenis": "capaian",
+          "nilai": [97.15, null, 93.26, 96.25, 94.83, 95.57],
+          "kutipan": "Jumlah Warga Negara Usia 7-15 Tahun yang Berpartisipasi Dalam Pendidikan Dasar (SD/Mi,SMP/MTs) 97,15 N/A 93,26 96,25 94,83 95,57"
+        },
+        {
+          "layanan": "pendidikan-kesetaraan",
+          "bidang": "pendidikan",
+          "label": "Pendidikan Kesetaraan",
+          "jenis": "capaian",
+          "nilai": [22.01, null, 84.03, 98.61, 94.66, 96.84],
+          "kutipan": "Jumlah Warga Negara Usia 7-18 Tahun yang Berpartisipasi Dalam Pendidikan Dasar dan atau Menengah yang Berpartisipasi dalam Pendidikan Kesetaraaan 22,01 N/A 84,03 98,61 94,66 96,84"
+        },
+        {
+          "layanan": "paud",
+          "bidang": "pendidikan",
+          "label": "Pendidikan Usia Dini",
+          "jenis": "capaian",
+          "nilai": [97.15, null, 84.36, 92.4, 93.47, 92.56],
+          "kutipan": "Jumlah Warga Negara Usia 5-6 Tahun yang Berpartisipasi Dalam Pendidikan PAUD 97,15 N/A 84,36 92,40 93,47 92,56",
+          "catatan": "Nilai 2019 PAUD tercetak sama dengan Pendidikan Dasar (97,15); rata-rata 72,10 pada baris di atas konsisten dengan ketiga angka tersebut, jadi angka dibiarkan apa adanya."
+        }
+      ]
+    },
+    {
+      "id": "rpjmd-2.105",
+      "sumber": "rpjmd-2025-2029",
+      "halaman": 187,
+      "halamanCetak": 165,
+      "judul": "Tabel 2.105. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Kesehatan tahun 2020 - 2024 Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.105 Capaian Pelaksanaan SPM Bidang Kesehatan 2020-2024, hlm. 165 (PDF hlm. 187)",
+      "tahun": [2020, 2021, 2022, 2023, 2024],
+      "catatan": "Kolom 2020-2024; beberapa angka desimal dicetak dengan titik (mis. 91.87), dipertahankan seperti aslinya.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "kesehatan",
+          "label": "capaian rata-rata SPM bidang kesehatan",
+          "jenis": "indeks",
+          "nilai": [71.32, 72.94, 93.71, 88.76, 93.71],
+          "kutipan": "Capaian rata-rata SPM % 71,32 72,94 93,71 88,76 93,71"
+        },
+        {
+          "layanan": "ibu-hamil",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Ibu Hamil",
+          "jenis": "capaian",
+          "nilai": [76.78, 86.4, 96.81, 89.67, 91.87],
+          "kutipan": "Jumlah semua ibu hamil yang Mendapatkan pelayanan kesehatan 76,78 86,40 96,81 89,67 91.87"
+        },
+        {
+          "layanan": "ibu-bersalin",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Ibu Bersalin",
+          "jenis": "capaian",
+          "nilai": [79.36, 85.51, 98.74, 93.98, 94.04],
+          "kutipan": "Jumlah ibu yang bersalin mendapatkan pelayanan kesehatan 79,36 85,51 98,74 93,98 94.04"
+        },
+        {
+          "layanan": "bayi-baru-lahir",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Bayi Baru Lahir",
+          "jenis": "capaian",
+          "nilai": [79.36, 82.0, 99.64, 92.73, 93.96],
+          "kutipan": "Jumlah semua bayi baru lahir diwilayah kabupaten tersebut dalam kurun waktu satu tahun 79,36 82,0 99,64 92,73 93.96"
+        },
+        {
+          "layanan": "balita",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Balita",
+          "jenis": "capaian",
+          "nilai": [58.6, 52.22, 89.13, 83.31, 85.76],
+          "kutipan": "Jumlah balita yang mendapatkan layanan kesehatan 58,60 52,22 89,13 83,31 85.76"
+        },
+        {
+          "layanan": "anak-usia-sekolah",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Pada Usia Pendidikan Dasar",
+          "jenis": "capaian",
+          "nilai": [8.35, 85.22, 99.33, 98.35, 99.33],
+          "kutipan": "Jumlah Warga negara usia pendidikan dasar yang mendapat layanan kesehatan 8,35 85,22 99,33 98,35 99.33"
+        },
+        {
+          "layanan": "usia-produktif",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Pada Usia Produktif",
+          "jenis": "capaian",
+          "nilai": [65.53, 46.53, 93.38, 69.34, 92.34],
+          "kutipan": "Jumlah Warga negara usia pendidikan dasar yang mendapat layanan kesehatan 65,53 46,53 93,38 69,34 92.34",
+          "catatan": "Teks indikator di sumber salah salin (tercetak 'usia pendidikan dasar'), tetapi kolom JENIS PELAYANAN adalah 'Pada Usia Produktif'; pemetaan mengikuti kolom jenis pelayanan."
+        },
+        {
+          "layanan": "usia-lanjut",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Pada Usia Lanjut",
+          "jenis": "capaian",
+          "nilai": [86.68, 84.14, 92.81, 82.12, 84.09],
+          "kutipan": "JumlahWarga Negara usia produktif yang mendapatkan layanan kesehatan 86,68 84,14 92,81 82,12 84.09",
+          "catatan": "Teks indikator di sumber salah salin (tercetak 'usia produktif'), tetapi kolom JENIS PELAYANAN adalah 'Pada Usia Lanjut'; pemetaan mengikuti kolom jenis pelayanan."
+        },
+        {
+          "layanan": "hipertensi",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Penderita Hipertensi",
+          "jenis": "capaian",
+          "nilai": [64.52, 50.72, 85.1, 88.96, 95.41],
+          "kutipan": "Jumlah Estimasi penderita hypertensi yang mendapatkan layanan kesehatan 64,52 50,72 85,10 88,96 95.41"
+        },
+        {
+          "layanan": "diabetes-melitus",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Penderita Diabetes Militus (DM)",
+          "jenis": "capaian",
+          "nilai": [100, 83.9, 94.28, 95.27, 97.72],
+          "kutipan": "Jumlah penyandang DM yang mendapatkan layanan Kesehatan 100 83,9 94,28 95,27 97.72"
+        },
+        {
+          "layanan": "odgj-berat",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Orang Dengan Gangguan Jiwa (ODGJ) Berat",
+          "jenis": "capaian",
+          "nilai": [75.0, 79.4, 92.0, 97.32, 95.62],
+          "kutipan": "Jumlah ODGJ berat (psikotik) yang terlayani Kesehatan 75,0 79,4 92,00 97,32 95.62"
+        },
+        {
+          "layanan": "terduga-tb",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Orang Dengan Tuberkulosis (TB)",
+          "jenis": "capaian",
+          "nilai": [73.3, 53.71, 89.44, 96.25, 94.96],
+          "kutipan": "Jumlah Warga Negara terduga tubercolusis yang mendapatkan layanan Kesehatan 73,3 53,71 89,44 96,25 94.96"
+        },
+        {
+          "layanan": "risiko-hiv",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Orang Dengan Resiko Terinveksi HIV",
+          "jenis": "capaian",
+          "nilai": [77.06, 85.3, 93.91, 77.92, 99.38],
+          "kutipan": "Jumlah orang beresiko terinfeksi HIV yang mendapatkan Layanan Kesehatan 77,06 85,3 93,91 77,92 99.38"
+        }
+      ]
+    },
+    {
+      "id": "rpjmd-2.106",
+      "sumber": "rpjmd-2025-2029",
+      "halaman": 188,
+      "halamanCetak": 166,
+      "judul": "Tabel 2.106. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Pekerjaan Umum Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.106 Capaian Pelaksanaan SPM Bidang Pekerjaan Umum, hlm. 166 (PDF hlm. 188)",
+      "tahun": [2019, 2020, 2021, 2022, 2023, 2024],
+      "catatan": "Kolom 2019-2024.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "pekerjaan-umum",
+          "label": "capaian rata-rata SPM bidang pekerjaan umum",
+          "jenis": "indeks",
+          "nilai": [33.55, 36.61, 38.67, 49.81, 60.92, 91.23],
+          "kutipan": "Capaian rata-rata SPM % 33,55 36,61 38,67 49,81 60,92 91.23"
+        },
+        {
+          "layanan": "air-minum-sehari-hari",
+          "bidang": "pekerjaan-umum",
+          "label": "Pemenuhan Kebutuhan Pokok Air Minum Sehari-hari",
+          "jenis": "capaian",
+          "nilai": [34.3, 35.99, 39.47, 45.11, 55.42, 82.45],
+          "kutipan": "Jumlah Warga Yang Memperoleh Kebutuhan pokok Air Minum Sehari-hari 34,30 35,99 39,47 45,11 55,42 82.45"
+        },
+        {
+          "layanan": "air-limbah-domestik",
+          "bidang": "pekerjaan-umum",
+          "label": "Penyediaan Pelayanan Pengelolaan Air Limbah Domestik",
+          "jenis": "capaian",
+          "nilai": [32.79, 35.23, 37.86, 54.5, 66.43, 100.0],
+          "kutipan": "Jumlah Warga Yang Memperoleh Layanan Pengelolaan Air Limba Domestik 32,79 35,23 37,86 54,50 66,43 100.00"
+        }
+      ]
+    },
+    {
+      "id": "rpjmd-2.107",
+      "sumber": "rpjmd-2025-2029",
+      "halaman": 190,
+      "halamanCetak": 168,
+      "judul": "Tabel 2.107. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Sosial Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.107 Capaian Pelaksanaan SPM Bidang Sosial, hlm. 168 (PDF hlm. 190)",
+      "tahun": [2020, 2021, 2022, 2023, 2024],
+      "catatan": "Kolom 2020-2024; pada cetakan, kolom 2022-2024 diletakkan di ujung tabel, bukan di kepala tabel.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "sosial",
+          "label": "capaian rata-rata SPM bidang sosial",
+          "jenis": "indeks",
+          "nilai": [73.8, 80.15, 92.0, 100, 99.07],
+          "kutipan": "Capaian rata-rata SPM % 73,80 80,15 92,00 100 99.07"
+        },
+        {
+          "layanan": "disabilitas-terlantar",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Penyandang Disabilitas Terlantar di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [73.33, 56.49, 96.82, 100, 100],
+          "kutipan": "Jumlah Warga Negara penyandang Disabilitas yang memperoleh rehabilitas Sosial di Luar Panti 73,33 56,49 96,82 100 100"
+        },
+        {
+          "layanan": "anak-terlantar",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Anak Terlantar di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [69.23, 63.2, 92.8, 100, 100],
+          "kutipan": "Jumlah anak Terlantar yang Memperoleh Rehabilitasi Sosial di Luar Panti 69,23 63,20 92,80 100 100"
+        },
+        {
+          "layanan": "lansia-terlantar",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Lanjut Usia Terlantar di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [67.37, 81.05, 92.5, 100, 99.69],
+          "kutipan": "Jumlah Warga Negara lanjut Usia terlantar yang memperoleh Rehabilitasi Sosial di Luar Panti 67,37 81,05 92,50 100 99.69"
+        },
+        {
+          "layanan": "tuna-sosial",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Tuna Sosial Khususnya Gelandangan dan Pengemis di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [59.05, 100, 85.87, 100, 99.67],
+          "kutipan": "Jumlah Tuna Sosial Khususnya Gelandangan dan Pengemis di Luar Panti Sosial 59,05 100 85,87 100 99.67"
+        },
+        {
+          "layanan": "korban-bencana",
+          "bidang": "sosial",
+          "label": "Perlindungan dan Jaminan Sosial pada Saat dan Setelah Tanggap Darurat Bencana bagi Korban Bencana Daerah Kab/Kota",
+          "jenis": "capaian",
+          "nilai": [100, 100, 92.0, 100, 96.0],
+          "kutipan": "Jumlah Perlindungan dan Jaminan Sosial pada saat dan Setelah Tanggap Darurat Bencana bagi Korban Bencana Daerah Kab/Kota 100 100 92,00 100 96.00"
+        }
+      ]
+    },
+    {
+      "id": "rpjmd-2.108",
+      "sumber": "rpjmd-2025-2029",
+      "halaman": 191,
+      "halamanCetak": 169,
+      "judul": "Tabel 2.108. Pelaksanaan Standar Pelayanan Minimal Bidang Trantibumlimas Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.108 Pelaksanaan SPM Bidang Trantibumlimas, hlm. 169 (PDF hlm. 191)",
+      "tahun": [2019, 2020, 2021, 2022, 2023, 2024],
+      "catatan": "Kolom 2019-2024. Tabel sumber memecah layanan 'informasi rawan bencana, pencegahan, kesiapsiagaan, serta penyelamatan dan evakuasi korban bencana' menjadi tiga baris; ketiganya dipetakan ke simpul kerangka 'rawan-bencana'.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "trantibum-linmas",
+          "label": "capaian rata-rata SPM bidang trantibumlinmas",
+          "jenis": "indeks",
+          "nilai": [76.67, 80.0, 87.0, 89.84, 100, 100],
+          "kutipan": "Capaian rata-rata SPM % 76,67 80,00 87,00 89,84 100 100"
+        },
+        {
+          "layanan": "trantibum",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Ketentraman dan Ketertiban Umum Terhadap Penegakan Perda sesuai Mutu dan Pelayanan Ganti Rugi",
+          "jenis": "capaian",
+          "nilai": [100, 100, 75.0, 87.89, 100, 100],
+          "kutipan": "Jumlah Warga Negara yang memperoleh layanan akibat dari penegakan Hukum Perda (%) 100 100 75,00 87,89 100 100"
+        },
+        {
+          "layanan": "rawan-bencana",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Pencegahan dan Kesiapsiagaan Terhadap Bencana",
+          "jenis": "capaian",
+          "nilai": [100, 100, 100, 90.0, 100, 100],
+          "kutipan": "Persentase penduduk yang memperoleh layanan pencegahan dan kesiapsiagaan terhadap bencana 100 100 100 90,00 100 100",
+          "catatan": "Sub-indikator dari layanan gabungan rawan-bencana (1/3): pencegahan dan kesiapsiagaan."
+        },
+        {
+          "layanan": "rawan-bencana",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Informasi Rawan Bencana",
+          "jenis": "capaian",
+          "nilai": [null, null, 60.0, 87.33, 100, 100],
+          "kutipan": "Persentase penduduk di daerah rawan bencana yang memperoleh layanan informasi rawan bencana NA NA 60,00 87,33 100 100",
+          "catatan": "Sub-indikator dari layanan gabungan rawan-bencana (2/3): informasi rawan bencana. 2019-2020 tercetak NA."
+        },
+        {
+          "layanan": "rawan-bencana",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Penyelamatan dan Evakuasi Korban Bencana",
+          "jenis": "capaian",
+          "nilai": [100, 100, 100, 84.0, 100, 100],
+          "kutipan": "Persentase penduduk yang memperolehlayanan penyelamatan dan evakuasi korban bencana 100 100 100 84,00 100 100",
+          "catatan": "Sub-indikator dari layanan gabungan rawan-bencana (3/3): penyelamatan dan evakuasi korban bencana."
+        },
+        {
+          "layanan": "kebakaran",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Penyelamatan dan Evakuasi Korban Kebakaran",
+          "jenis": "capaian",
+          "nilai": [83.33, 100, 100, 100, 100, 100],
+          "kutipan": "Persentase penduduk yang memperoleh layanan penyelamatan dan Evakuasi korban kebakaran 83,33 100 100 100 100 100"
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.105",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 196,
+      "halamanCetak": 173,
+      "judul": "Tabel 2.105. Data Capaian Pelaksanaan SPM Kabupaten Tulang Bawang Barat Tahun 2021-2025",
+      "lokasi": "Tabel 2.105 Data Capaian Pelaksanaan SPM Kabupaten Tulang Bawang Barat 2021-2025, hlm. 173 (PDF hlm. 196)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Indeks capaian SPM seluruh kabupaten; sumber menyebut 'Sekretariat SPM Tulang Bawang Barat 2026'.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": null,
+          "label": "Data Capaian Pelaksanaan SPM kabupaten",
+          "jenis": "indeks",
+          "nilai": [74.13, 86.59, 90.67, 96.5, 96.59],
+          "kutipan": "Data Capaian Pelaksanaan SPM 74,13 86,59 90,67 96,50 96,59 | Katagori Tuntas Pratama Tuntas Madya Tuntas Utama Tuntas Utama Tuntas Utama",
+          "catatan": "Kategori per tahun menurut sumber: 2021 Tuntas Pratama, 2022 Tuntas Madya, 2023 Tuntas Utama, 2024 Tuntas Utama, 2025 Tuntas Utama."
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.106",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 196,
+      "halamanCetak": 173,
+      "judul": "Tabel 2.106. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Pendidikan Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.106 Capaian Pelaksanaan SPM Bidang Pendidikan, hlm. 173-174 (PDF hlm. 196-197)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Kolom 2021-2025; sumber tabel: spm.bangda.kemendagri.go.id.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "pendidikan",
+          "label": "capaian rata-rata SPM bidang pendidikan",
+          "jenis": "indeks",
+          "nilai": [87.21, 95.75, 94.32, 94.99, 100],
+          "kutipan": "Capaian Rata-rata SPM % 87,21 95,75 94,32 94,99 100"
+        },
+        {
+          "layanan": "pendidikan-dasar",
+          "bidang": "pendidikan",
+          "label": "Pendidikan Dasar",
+          "jenis": "capaian",
+          "nilai": [93.26, 96.25, 94.83, 95.57, 100],
+          "kutipan": "Jumlah Warga Negara Usia 7-15 Tahun yang Berpartisipasi Dalam Pendidikan Dasar (SD/Mi,SMP/MTs) 93,26 96,25 94,83 95,57 100"
+        },
+        {
+          "layanan": "pendidikan-kesetaraan",
+          "bidang": "pendidikan",
+          "label": "Pendidikan Kesetaraan",
+          "jenis": "capaian",
+          "nilai": [84.03, 98.61, 94.66, 96.84, 100],
+          "kutipan": "Jumlah Warga Negara Usia 7-18 Tahun yang Berpartisipasi Dalam Pendidikan Dasar dan atau Menengah yang Berpartisipasi dalam Pendidikan Kesetaraaan 84,03 98,61 94,66 96,84 100"
+        },
+        {
+          "layanan": "paud",
+          "bidang": "pendidikan",
+          "label": "Pendidikan Usia Dini",
+          "jenis": "capaian",
+          "nilai": [84.36, 92.4, 93.47, 92.56, 100],
+          "kutipan": "Jumlah Warga Negara Usia 5-6 Tahun yang Berpartisipasi Dalam Pendidikan PAUD 84,36 92,40 93,47 92,56 100"
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.107",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 197,
+      "halamanCetak": 174,
+      "judul": "Tabel 2.107. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Kesehatan tahun 2021 - 2025 Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.107 Capaian Pelaksanaan SPM Bidang Kesehatan 2021-2025, hlm. 174-175 (PDF hlm. 197-198)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Kolom 2021-2025. Angka 2021-2024 sama dengan Perda RPJMD 2025-2029 Tabel 2.105. Angka desimal sebagian dicetak dengan titik.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "kesehatan",
+          "label": "capaian rata-rata SPM bidang kesehatan",
+          "jenis": "indeks",
+          "nilai": [72.94, 93.71, 88.76, 93.71, 79.54],
+          "kutipan": "Capaian rata-rata SPM % 72,94 93,71 88,76 93,71 79,54"
+        },
+        {
+          "layanan": "ibu-hamil",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Ibu Hamil",
+          "jenis": "capaian",
+          "nilai": [86.4, 96.81, 89.67, 91.87, 82.05],
+          "kutipan": "Jumlah semua ibu hamil yang Mendapatkan pelayanan kesehatan 86,40 96,81 89,67 91.87 82,05"
+        },
+        {
+          "layanan": "ibu-bersalin",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Ibu Bersalin",
+          "jenis": "capaian",
+          "nilai": [85.51, 98.74, 93.98, 94.04, 71.99],
+          "kutipan": "Jumlah ibu yang bersalin mendapatkan pelayanan kesehatan 85,51 98,74 93,98 94.04 71,99"
+        },
+        {
+          "layanan": "bayi-baru-lahir",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Bayi Baru Lahir",
+          "jenis": "capaian",
+          "nilai": [82.0, 99.64, 92.73, 93.96, 73.45],
+          "kutipan": "Jumlah semua bayi baru lahir diwilayah kabupaten tersebut dalam kurun waktu satu tahun 82,0 99,64 92,73 93.96 73,45"
+        },
+        {
+          "layanan": "balita",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Balita",
+          "jenis": "capaian",
+          "nilai": [52.22, 89.13, 83.31, 85.76, 81.47],
+          "kutipan": "Jumlah balita yang mendapatkan layanan kesehatan 52,22 89,13 83,31 85.76 81,47"
+        },
+        {
+          "layanan": "anak-usia-sekolah",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Pada Usia Pendidikan Dasar",
+          "jenis": "capaian",
+          "nilai": [85.22, 99.33, 98.35, 99.33, 81.0],
+          "kutipan": "Jumlah Warga negara usia pendidikan dasar yang mendapat layanan kesehatan 85,22 99,33 98,35 99.33 81,00"
+        },
+        {
+          "layanan": "usia-produktif",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Pada Usia Produktif",
+          "jenis": "capaian",
+          "nilai": [46.53, 93.38, 69.34, 92.34, 64.82],
+          "kutipan": "Jumlah Warga negara usia pendidikan dasar yang mendapat layanan kesehatan 46,53 93,38 69,34 92.34 64,82",
+          "catatan": "Teks indikator di sumber salah salin (tercetak 'usia pendidikan dasar'), tetapi kolom JENIS PELAYANAN adalah 'Pada Usia Produktif'."
+        },
+        {
+          "layanan": "usia-lanjut",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Pada Usia Lanjut",
+          "jenis": "capaian",
+          "nilai": [84.14, 92.81, 82.12, 84.09, 79.61],
+          "kutipan": "JumlahWarga Negara usia produktif yang mendapatkan layanan kesehatan 84,14 92,81 82,12 84.09 79,61",
+          "catatan": "Teks indikator di sumber salah salin (tercetak 'usia produktif'), tetapi kolom JENIS PELAYANAN adalah 'Pada Usia Lanjut'."
+        },
+        {
+          "layanan": "hipertensi",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Penderita Hipertensi",
+          "jenis": "capaian",
+          "nilai": [50.72, 85.1, 88.96, 95.41, 65.76],
+          "kutipan": "Jumlah Estimasi penderita hypertensi yang mendapatkan layanan kesehatan 50,72 85,10 88,96 95.41 65,76"
+        },
+        {
+          "layanan": "diabetes-melitus",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Penderita Diabetes Militus (DM)",
+          "jenis": "capaian",
+          "nilai": [83.9, 94.28, 95.27, 97.72, 82.5],
+          "kutipan": "Jumlah penyandang DM yang mendapatkan layanan Kesehatan 83,9 94,28 95,27 97.72 82,50"
+        },
+        {
+          "layanan": "odgj-berat",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Orang Dengan Gangguan Jiwa (ODGJ) Berat",
+          "jenis": "capaian",
+          "nilai": [79.4, 92.0, 97.32, 95.62, 94.9],
+          "kutipan": "Jumlah ODGJ berat (psikotik) yang terlayani Kesehatan 79,4 92,00 97,32 95.62 94,90"
+        },
+        {
+          "layanan": "terduga-tb",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Orang Dengan Tuberkulosis (TB)",
+          "jenis": "capaian",
+          "nilai": [53.71, 89.44, 96.25, 94.96, 99.21],
+          "kutipan": "Jumlah Warga Negara terduga tubercolusis yang mendapatkan layanan Kesehatan 53,71 89,44 96,25 94.96 99,21"
+        },
+        {
+          "layanan": "risiko-hiv",
+          "bidang": "kesehatan",
+          "label": "Pelayanan Kesehatan Orang Dengan Resiko Terinveksi HIV",
+          "jenis": "capaian",
+          "nilai": [85.3, 93.91, 77.92, 99.38, 77.77],
+          "kutipan": "Jumlah orang beresiko terinfeksi HIV yang mendapatkan Layanan Kesehatan 85,3 93,91 77,92 99.38 77,77"
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.108",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 199,
+      "halamanCetak": 176,
+      "judul": "Tabel 2.108. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Pekerjaan Umum Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.108 Capaian Pelaksanaan SPM Bidang Pekerjaan Umum, hlm. 176 (PDF hlm. 199)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Kolom 2021-2025.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "pekerjaan-umum",
+          "label": "capaian rata-rata SPM bidang pekerjaan umum",
+          "jenis": "indeks",
+          "nilai": [38.67, 49.81, 60.92, 91.23, 100],
+          "kutipan": "Capaian rata-rata SPM % 38,67 49,81 60,92 91.23 100"
+        },
+        {
+          "layanan": "air-minum-sehari-hari",
+          "bidang": "pekerjaan-umum",
+          "label": "Pemenuhan Kebutuhan Pokok Air Minum Sehari-hari",
+          "jenis": "capaian",
+          "nilai": [39.47, 45.11, 55.42, 82.45, 100],
+          "kutipan": "Jumlah Warga Yang Memperoleh Kebutuhan pokok Air Minum Sehari-hari 39,47 45,11 55,42 82.45 100"
+        },
+        {
+          "layanan": "air-limbah-domestik",
+          "bidang": "pekerjaan-umum",
+          "label": "Penyediaan Pelayanan Pengelolaan Air Limbah Domestik",
+          "jenis": "capaian",
+          "nilai": [37.86, 54.5, 66.43, 100, 100],
+          "kutipan": "Jumlah Warga Yang Memperoleh Layanan Pengelolaan Air Limba Domestik 37,86 54,50 66,43 100 100"
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.109",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 199,
+      "halamanCetak": 176,
+      "judul": "Tabel 2.109. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Perumahan Rakyat Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.109 Capaian Pelaksanaan SPM Bidang Perumahan Rakyat, hlm. 176 (PDF hlm. 199)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Kolom 2021-2025. Tabel hanya memuat dua jenis layanan; layanan 'Fasilitasi penyediaan rumah layak huni bagi MBR' tidak dicantumkan.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "perumahan-rakyat",
+          "label": "capaian rata-rata SPM bidang perumahan rakyat",
+          "jenis": "indeks",
+          "nilai": [66.67, 96.67, 100, 100, 100],
+          "kutipan": "Capaian rata-rata SPM % 66,67 96,67 100 100 100"
+        },
+        {
+          "layanan": "rumah-korban-bencana",
+          "bidang": "perumahan-rakyat",
+          "label": "Penyediaan dan Rehabilitasi Rumah yang Layak Huni Bagi Korban Bencana Kab/kota",
+          "jenis": "capaian",
+          "nilai": [50.0, 100, 100, 100, 100],
+          "kutipan": "Jumlah Rumah Korban yang Bencana Yang Berhak Memperoleh Rumah Layak Huni 50,00 100 100 100 100"
+        },
+        {
+          "layanan": "rumah-terkena-relokasi",
+          "bidang": "perumahan-rakyat",
+          "label": "Fasilitasi Penyediaan Rumah yang Layak Huni Bagi Masyarakat Yang Terkena Relokasi Program Pemerintah Daerah Kab/Kota",
+          "jenis": "capaian",
+          "nilai": [83.33, 93.33, 100, 100, 100],
+          "kutipan": "Jumlah Warga Negara yang Terkena Relokasi akibat Program Pemerintah Daerah Kab/Kota yang memperoleh Fasilitasi Penyediaan Rumah yang Layak Huni 83,33 93,33 100 100 100"
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.110",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 200,
+      "halamanCetak": 177,
+      "judul": "Tabel 2.110. Capaian Pelaksanaan Standar Pelayanan Minimal Bidang Sosial Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.110 Capaian Pelaksanaan SPM Bidang Sosial, hlm. 177-178 (PDF hlm. 200-201)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Kolom 2021-2025.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "sosial",
+          "label": "capaian rata-rata SPM bidang sosial",
+          "jenis": "indeks",
+          "nilai": [80.15, 92.0, 100, 99.07, 100],
+          "kutipan": "Capaian rata-rata SPM % 80,15 92,00 100 99.07 100"
+        },
+        {
+          "layanan": "disabilitas-terlantar",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Penyandang Disabilitas Terlantar di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [56.49, 96.82, 100, 100, 100],
+          "kutipan": "Jumlah Warga Negara penyandang Disabilitas yang memperoleh rehabilitas Sosial di Luar Panti 56,49 96,82 100 100 100"
+        },
+        {
+          "layanan": "anak-terlantar",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Anak Terlantar di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [63.2, 92.8, 100, 100, 100],
+          "kutipan": "Jumlah anak Terlantar yang Memperoleh Rehabilitasi Sosial di Luar Panti 63,20 92,80 100 100 100"
+        },
+        {
+          "layanan": "lansia-terlantar",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Lanjut Usia Terlantar di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [81.05, 92.5, 100, 99.69, 100],
+          "kutipan": "Jumlah Warga Negara lanjut Usia terlantar yang memperoleh Rehabilitasi Sosial di Luar Panti 81,05 92,50 100 99.69 100"
+        },
+        {
+          "layanan": "tuna-sosial",
+          "bidang": "sosial",
+          "label": "Rehabilitasi Sosial Dasar Tuna Sosial Khususnya Gelandangan dan Pengemis di Luar Panti Sosial",
+          "jenis": "capaian",
+          "nilai": [100, 85.87, 100, 99.67, 100],
+          "kutipan": "Jumlah Tuna Sosial Khususnya Gelandangan dan Pengemis di Luar Panti Sosial 100 85,87 100 99.67 100"
+        },
+        {
+          "layanan": "korban-bencana",
+          "bidang": "sosial",
+          "label": "Perlindungan dan Jaminan Sosial pada Saat dan Setelah Tanggap Darurat Bencana bagi Korban Bencana Daerah Kab/Kota",
+          "jenis": "capaian",
+          "nilai": [100, 92.0, 100, 96.0, 100],
+          "kutipan": "Jumlah Perlindungan dan Jaminan Sosial pada saat dan Setelah Tanggap Darurat Bencana bagi Korban Bencana Daerah Kab/Kota 100 92,00 100 96.00 100"
+        }
+      ]
+    },
+    {
+      "id": "rkpd-2.111",
+      "sumber": "perbup-18-2026-rkpd-2027",
+      "halaman": 201,
+      "halamanCetak": 178,
+      "judul": "Tabel 2.111. Pelaksanaan Standar Pelayanan Minimal Bidang Trantibumlimas Kabupaten Tulang Bawang Barat",
+      "lokasi": "Tabel 2.111 Pelaksanaan SPM Bidang Trantibumlimas, hlm. 178 (PDF hlm. 201)",
+      "tahun": [2021, 2022, 2023, 2024, 2025],
+      "catatan": "Kolom 2021-2025. Tabel sumber memecah layanan 'informasi rawan bencana, pencegahan, kesiapsiagaan, serta penyelamatan dan evakuasi korban bencana' menjadi tiga baris; ketiganya dipetakan ke simpul kerangka 'rawan-bencana'.",
+      "baris": [
+        {
+          "layanan": null,
+          "bidang": "trantibum-linmas",
+          "label": "capaian rata-rata SPM bidang trantibumlinmas",
+          "jenis": "indeks",
+          "nilai": [87.0, 89.84, 100, 100, 100],
+          "kutipan": "Capaian rata-rata SPM % 87,00 89,84 100 100 100"
+        },
+        {
+          "layanan": "trantibum",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Ketentraman dan Ketertiban Umum Terhadap Penegakan Perda sesuai Mutu dan Pelayanan Ganti Rugi",
+          "jenis": "capaian",
+          "nilai": [75.0, 87.89, 100, 100, 100],
+          "kutipan": "Jumlah Warga Negara yang memperoleh layanan akibat dari penegakan Hukum Perda (%) 75,00 87,89 100 100 100"
+        },
+        {
+          "layanan": "rawan-bencana",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Pencegahan dan Kesiapsiagaan Terhadap Bencana",
+          "jenis": "capaian",
+          "nilai": [100, 90.0, 100, 100, 100],
+          "kutipan": "Persentase penduduk yang memperoleh layanan pencegahan dan kesiapsiagaan terhadap bencana 100 90,00 100 100 100",
+          "catatan": "Sub-indikator dari layanan gabungan rawan-bencana (1/3): pencegahan dan kesiapsiagaan."
+        },
+        {
+          "layanan": "rawan-bencana",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Informasi Rawan Bencana",
+          "jenis": "capaian",
+          "nilai": [60.0, 87.33, 100, 100, 100],
+          "kutipan": "Persentase penduduk di daerah rawan bencana yang memperoleh layanan informasi rawan bencana 60,00 87,33 100 100 100",
+          "catatan": "Sub-indikator dari layanan gabungan rawan-bencana (2/3): informasi rawan bencana."
+        },
+        {
+          "layanan": "rawan-bencana",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Penyelamatan dan Evakuasi Korban Bencana",
+          "jenis": "capaian",
+          "nilai": [100, 84.0, 100, 100, 100],
+          "kutipan": "Persentase penduduk yang memperolehlayanan penyelamatan dan evakuasi korban bencana 100 84,00 100 100 100",
+          "catatan": "Sub-indikator dari layanan gabungan rawan-bencana (3/3): penyelamatan dan evakuasi korban bencana."
+        },
+        {
+          "layanan": "kebakaran",
+          "bidang": "trantibum-linmas",
+          "label": "Pelayanan Penyelamatan dan Evakuasi Korban Kebakaran",
+          "jenis": "capaian",
+          "nilai": [100, 100, 100, 100, 100],
+          "kutipan": "Persentase penduduk yang memperoleh layanan penyelamatan dan Evakuasi korban kebakaran 100 100 100 100 100"
+        }
+      ]
+    }
+  ]
+}

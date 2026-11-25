@@ -1,0 +1,1143 @@
+[
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-1",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Perubahan RKPD 2025 menempatkan Penanggulangan Kemiskinan sebagai prioritas pembangunan ke-4 dan memuat program/kegiatan Dinas Sosial dengan pagu, sedangkan APBD 2025 menjabarkan RKPD 2025 dan mengalokasikan anggaran untuk Program Pemberdayaan Sosial serta pengelolaan data fakir miskin. Program, kegiatan, dan anggaran pada RKPD dan APBD terpenuhi.",
+    "bukti": [
+      {
+        "sumber": "perbup-22-2025-perubahan-rkpd-2025",
+        "halaman": 112,
+        "lokasi": "Halaman 112, daftar tujuh prioritas pembangunan 2025",
+        "kutipan": "4. Penanggulangan Kemiskinan"
+      },
+      {
+        "sumber": "perbup-22-2025-perubahan-rkpd-2025",
+        "halaman": 40,
+        "lokasi": "Halaman 40, formulir evaluasi RKPD Dinas Sosial, baris Program Pemberdayaan Sosial",
+        "kutipan": "2 1.06.02 Program Pemberdayaan Sosial Kesejahteraan Sosial 100 76.436.352 100 358.540.000"
+      },
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 1,
+        "lokasi": "Halaman 1, bagian Menimbang huruf b Perda 12/2024",
+        "kutipan": "merupakan perwujudan dari Rencana Kerja Pemerintah Daerah Tahun 2025"
+      },
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 139,
+        "lokasi": "Halaman 139, Program 1.06.02 Pemberdayaan Sosial beserta sub kegiatan dan pagu",
+        "kutipan": "Program : 1.06.02 PROGRAM PEMBERDAYAAN SOSIAL"
+      },
+      {
+        "sumber": "perda-10-2025-penanggulangan-kemiskinan",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Daerah Nomor 10 Tahun 2025",
+        "kutipan": "PERATURAN DAERAH KABUPATEN TULANG BAWANG BARAT NOMOR 10 TAHUN 2025 TENTANG PENANGGULANGAN KEMISKINAN"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-2",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan data, informasi, dan dokumentasi pemutakhiran data penerima bantuan by name by address. Yang tersedia baru tangkapan layar SIKS-NG dan anggaran pengelolaan data fakir miskin, sehingga frekuensi 6 bulanan atau tahunan tidak dapat dibuktikan.",
+    "bukti": [
+      {
+        "sumber": "47fe8c4cc73f",
+        "halaman": 1,
+        "lokasi": "Halaman 1, tangkapan layar halaman masuk SIKS-NG Dinas Sosial",
+        "kutipan": "SIKS-NG Login Sistem"
+      },
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 142,
+        "lokasi": "Halaman 142, Sub Kegiatan 1.06.05.2.02.0002 Pengelolaan Data Fakir Miskin",
+        "kutipan": "Jumlah Keluarga yang Mendapatkan Pengentasan Fakir Miskin Kabupaten/Kota"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-3",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Tim Koordinasi Penanggulangan Kemiskinan sudah dibentuk dengan Keputusan Bupati 132/2025, tetapi belum ditemukan notulensi rapat koordinasi minimal 1-2 kali per semester sebagaimana disyaratkan kriteria a/b.",
+    "bukti": [
+      {
+        "sumber": "kepbup-132-2025-tim-koordinasi-kemiskinan",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Keputusan Bupati Nomor 100.3.3.2/132/III.02/HK/2025",
+        "kutipan": "TIM KOORDINASI PENANGGULANGAN KEMISKINAN TAHUN 2025"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-4",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan bukti laporan hasil optimalisasi penanggulangan kemiskinan kepada Gubernur/Menteri Dalam Negeri beserta tanda terima atau dokumentasi penyampaiannya.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-5",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Angka kemiskinan Tubaba turun dari 7,22% (2024) menjadi 6,72% (2025) dan berada di bawah angka nasional 8,50%, sehingga kriteria a terpenuhi.",
+    "bukti": [
+      {
+        "sumber": "bps-tubaba-dalam-angka-2026",
+        "halaman": 565,
+        "lokasi": "Halaman 565, Tabel 13.4 Persentase Penduduk Miskin Menurut Kabupaten/Kota di Provinsi Lampung 2021-2025",
+        "kutipan": "Tulang Bawang Barat 8,32 7,44 7,25 7,22 6,72"
+      },
+      {
+        "sumber": "bps-nasional-statistik-indonesia-2026",
+        "halaman": 46,
+        "lokasi": "Halaman 46, Tabel 0.1 ringkasan statistik kunci, baris Persentase penduduk miskin",
+        "kutipan": "Persentase penduduk miskin9 % 10,1 9,5 9,4 9,0 8,5"
+      },
+      {
+        "sumber": "b268f44dbfce",
+        "halaman": 502,
+        "lokasi": "Halaman 502, Tabel 4.7 IKD RPJMD 2025-2029, baris Tingkat Kemiskinan (target 2025)",
+        "kutipan": "6,72-7,00"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-6",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ada angka kemiskinan ekstrem Kabupaten Tulang Bawang Barat yang dipublikasikan; BPS hanya merilis angka kemiskinan umum, sehingga perbandingan dengan angka nasional belum dapat dilakukan.",
+    "bukti": [
+      {
+        "sumber": "kepbup-133-2025-lokus-kemiskinan-ekstrem",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Keputusan Bupati Nomor 100.3.3.2/133/III.02/HK/2025",
+        "kutipan": "TIYUH LOKASI FOKUS PERCEPATAN PENGHAPUSAN KEMISKINAN EKSTREM TAHUN 2025"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-1/indikator-1-7",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 1.0,
+    "alasan": "Terdapat inovasi pengentasan kemiskinan (Nenemo Mandiri Pangan dengan K3W, Tubaba Q Berdaya, Gerakan LIMAS), tetapi Perbup 10/2025 dan Perbup 71/2025 mengatur program dan rencana penanggulangan kemiskinan, bukan menetapkan inovasi sebagai Peraturan Kepala Daerah. Karena itu kriteria b.",
+    "bukti": [
+      {
+        "sumber": "perbup-22-2025-perubahan-rkpd-2025",
+        "halaman": 132,
+        "lokasi": "Halaman 132, daftar Program Hasil Terbaik Cepat Bupati, butir 7",
+        "kutipan": "Melanjutkan Nenemo Mandiri Pangan dan K3W (Kolam, Kebun, Kandang dan Wisata), Pengembangan Nuwo SIP"
+      },
+      {
+        "sumber": "perbup-10-2025-penanggulangan-kemiskinan",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 10 Tahun 2025",
+        "kutipan": "PENANGGULANGAN KEMISKINAN DAERAH"
+      },
+      {
+        "sumber": "perbup-71-2025-rencana-penanggulangan-kemiskinan",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 71 Tahun 2025",
+        "kutipan": "RENCANA PENANGGULANGAN KEMISKINAN DAERAH TAHUN 2025-2029"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-2/indikator-2-1",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 1.25,
+    "alasan": "Lahan 9,4 hektare sudah tersedia dan bersertifikat Hak Pakai untuk Sekolah Rakyat, tetapi bangunan sekolah belum dibangun (pembangunan fisik ditargetkan November-Desember 2026). Hanya kriteria b yang terpenuhi.",
+    "bukti": [
+      {
+        "sumber": "berita-dinsos-sekolah-rakyat-tubaba",
+        "halaman": null,
+        "lokasi": "Bagian tengah artikel, keterangan Kepala Bidang Perlindungan dan Jaminan Sosial Dinas Sosial",
+        "kutipan": "Lahan tersebut memiliki luas sekitar 9,4 hektare dan tercatat dalam Sertipikat Hak Pakai Nomor 08.13.05.01.4.00018"
+      },
+      {
+        "sumber": "perbup-22-2025-perubahan-rkpd-2025",
+        "halaman": 132,
+        "lokasi": "Halaman 132, Program Hasil Terbaik Cepat Bupati, butir 8",
+        "kutipan": "pendirian Sekolah Rakyat (SR)"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-2/indikator-2-2",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 1.0,
+    "alasan": "Perizinan Sekolah Rakyat masih dalam proses fasilitasi daerah: kesesuaian tata ruang, AMDAL, dan Andalalin belum selesai, sesuai kriteria b.",
+    "bukti": [
+      {
+        "sumber": "berita-dinsos-sekolah-rakyat-tubaba",
+        "halaman": null,
+        "lokasi": "Bagian tengah artikel, keterangan Dinas Sosial",
+        "kutipan": "dokumen Analisis Mengenai Dampak Lingkungan (AMDAL) dan Analisis Dampak Lalu Lintas (Andalalin) menjadi sejumlah persyaratan yang masih ditunggu penyelesaiannya"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-2/indikator-2-3",
+    "tahun": 2025,
+    "kriteria": "c",
+    "nilai": 0.0,
+    "alasan": "Guru dan tenaga pendidik Sekolah Rakyat belum tersedia karena perekrutan dilakukan Kementerian Sosial dan pembangunan sekolah belum dimulai, sehingga kriteria c.",
+    "bukti": [
+      {
+        "sumber": "berita-dinsos-sekolah-rakyat-tubaba",
+        "halaman": null,
+        "lokasi": "Bagian tengah artikel, keterangan Dinas Sosial",
+        "kutipan": "termasuk perekrutan guru, wali asuh, tenaga pendukung, dan petugas keamanan"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-2/indikator-2-4",
+    "tahun": 2025,
+    "kriteria": "c",
+    "nilai": 0.0,
+    "alasan": "Target 72 rombongan belajar baru merupakan rencana (24 rombel untuk masing-masing jenjang SD, SMP, SMA); belum ada rombongan belajar yang berjalan karena sekolah belum dibangun, sehingga capaian 0% dan kriteria c.",
+    "bukti": [
+      {
+        "sumber": "berita-dinsos-sekolah-rakyat-tubaba",
+        "halaman": null,
+        "lokasi": "Bagian tengah artikel, keterangan Dinas Sosial",
+        "kutipan": "72 rombongan belajar, masing-masing 24 rombel untuk jenjang SD, SMP, dan SMA"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-2/indikator-2-5",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan inovasi untuk pelaksanaan Sekolah Rakyat, apalagi yang ditetapkan dengan Peraturan Kepala Daerah.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-1",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 0.75,
+    "alasan": "Pembebasan BPHTB bagi MBR telah ditetapkan dengan Perbup 75/2024, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "perbup-75-2024-pembebasan-bphtb-mbr",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 75 Tahun 2024",
+        "kutipan": "PEMBEBASAN BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN BAGI MASYARAKAT BERPENGHASILAN RENDAH"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-2",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 0.75,
+    "alasan": "Penghapusan retribusi Persetujuan Bangunan Gedung bagi MBR telah ditetapkan dengan Perbup 76/2024, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "perbup-76-2024-pembebasan-retribusi-pbg-mbr",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 76 Tahun 2024",
+        "kutipan": "PEMBEBASAN RETRIBUSI PERSETUJUAN BANGUNAN GEDUNG BAGI MASYARAKAT BERPENGHASILAN RENDAH"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-3",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Sebanyak 23 permohonan PBG rumah MBR selesai diterbitkan, tetapi laporan tidak memuat tanggal permohonan dan tanggal penerbitan sehingga durasi layanan 1-10 hari kerja belum dapat dibuktikan.",
+    "bukti": [
+      {
+        "sumber": "7e10db379cac",
+        "halaman": 2,
+        "lokasi": "Halaman 7, pernyataan penutup laporan subkegiatan PBG MBR",
+        "kutipan": "Sampai hari ini tanggal 25 bulan Juni tahun 2026, Pengajuan Persetujuan Bangunan Gedung dengan Fungsi Hunian untuk Masyarakat Berpenghasilan Rendah dengan jumlah 23 pemohon dan telah selesai penerbitan PBG nya."
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-4",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.0,
+    "alasan": "Sosialisasi dilakukan melalui beberapa kanal: unggahan media sosial Dinas PUPR tentang PBG gratis bagi MBR, standing banner, pamflet, dan rapat terkait PBG, dengan dokumentasi pada laporan subkegiatan. Bukti jangkauan audiens belum diukur.",
+    "bukti": [
+      {
+        "sumber": "a42806b97d04",
+        "halaman": 1,
+        "lokasi": "Gambar unggahan Instagram Dinas PUPR Tubaba",
+        "kutipan": "PBGGRATIS UNTUK MASYARAKAT BERPENGHASILAN RENDAH"
+      },
+      {
+        "sumber": "7e10db379cac",
+        "halaman": 5,
+        "lokasi": "Halaman 7, daftar lampiran dokumentasi kegiatan",
+        "kutipan": "PUBLIKASI MEDSOS, STANDING BANNER DAN PAMFLET"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-5",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan laporan evaluasi pelaksanaan pembebasan BPHTB, penghapusan retribusi PBG, dan percepatan layanan PBG yang disampaikan kepada Menteri Dalam Negeri dan menteri terkait.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-6",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Realisasi 23 PBG rumah MBR tercatat, tetapi target jumlah unit rumah baru dalam RKPD/APBD tidak ditemukan, sehingga persentase terhadap target belum dapat dihitung.",
+    "bukti": [
+      {
+        "sumber": "7e10db379cac",
+        "halaman": 2,
+        "lokasi": "Halaman 7, pernyataan penutup laporan subkegiatan PBG MBR",
+        "kutipan": "dengan jumlah 23 pemohon dan telah selesai penerbitan PBG nya"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "a-penanggulangan-kemiskinan/program-3/indikator-3-7",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ada inovasi khusus pembangunan 3 Juta Rumah. Perbup 75/2024 dan 76/2024 melaksanakan amanat Surat Keputusan Bersama tiga menteri, bukan inovasi daerah.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "b-ketahanan-pangan/program-1/indikator-1-1",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Baru ada Keputusan Bupati tentang Tim Pelaksana Penyaluran Cadangan Pangan Pemerintah Daerah; belum ditemukan surat penugasan kepada OPD yang diterbitkan berkala (bulanan atau dua bulanan).",
+    "bukti": [
+      {
+        "sumber": "kepbup-269-2025-penyaluran-cbp",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Keputusan Bupati Nomor 100.3.3.2/269/II.10/HK/2025",
+        "kutipan": "TIM PELAKSANA PENYALURAN CADANGAN PANGAN PEMERINTAH DAERAH TAHUN 2025"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "b-ketahanan-pangan/program-1/indikator-1-2",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan notulensi rapat koordinasi Forkopimda yang membahas pengadaan atau penyaluran Cadangan Beras Pemerintah.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "b-ketahanan-pangan/program-1/indikator-1-3",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Target cadangan pangan minimal 100 ton ekuivalen beras ditetapkan Perbup 31/2020 dan anggaran pengadaan tersedia, tetapi realisasi tonase tahun 2025 tidak ditemukan sehingga persentase terhadap target belum dapat dinilai.",
+    "bukti": [
+      {
+        "sumber": "perbup-31-2020-cadangan-pangan",
+        "halaman": 6,
+        "lokasi": "Pasal 5 ayat (2) Perbup 31/2020",
+        "kutipan": "Cadangan Pangan pemerintah Daerah ditetapkan minimal sebesar 100 (seratus) ton ekuivalen beras"
+      },
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 159,
+        "lokasi": "Halaman 159, Sub Kegiatan 2.09.03.2.02.0003 Pengadaan Cadangan Pangan Pemerintah Kabupaten/Kota",
+        "kutipan": "Pengadaan Cadangan Pangan Pemerintah Kabupaten/Kota"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "b-ketahanan-pangan/program-1/indikator-1-4",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan inovasi pengadaan dan pengelolaan gabah/beras atau penyaluran Cadangan Beras Pemerintah, apalagi yang ditetapkan dengan Peraturan Kepala Daerah.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-1",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 0.5,
+    "alasan": "Regulasi daerah untuk mendukung pelaksanaan JKN sudah ditetapkan melalui Perbup 5/2015 tentang pengelolaan dan pemanfaatan dana kapitasi JKN pada fasilitas kesehatan tingkat pertama. Tidak ditemukan regulasi JKN yang lebih baru.",
+    "bukti": [
+      {
+        "sumber": "perbup-5-2015-kapitasi-jkn",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 5 Tahun 2015",
+        "kutipan": "PENGELOLAAN DAN PEMANFAATAN DANA KAPITASI JAMINAN KESEHATAN NASIONAL PADA FASILITAS KESEHATAN TINGKAT PERTAMA"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-2",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 0.5,
+    "alasan": "APBD 2025 memuat sub-kegiatan Pengelolaan Jaminan Kesehatan Masyarakat (Rp10,62 miliar) dan belanja iuran JKN ASN (Rp17,55 miliar), sebagai penjabaran RKPD 2025. Program, kegiatan, dan anggaran tersedia.",
+    "bukti": [
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 36,
+        "lokasi": "Halaman 36, Sub Kegiatan 1.02.02.2.02.0026 Pengelolaan Jaminan Kesehatan Masyarakat",
+        "kutipan": "Sub Kegiatan : 1.02.02.2.02.0026 Pengelolaan Jaminan Kesehatan Masyarakat"
+      },
+      {
+        "sumber": "lkpd-2025",
+        "halaman": 2,
+        "lokasi": "Halaman 2, Tabel 5.6.2 Mandatory Spending Fungsi Kesehatan",
+        "kutipan": "Iuran Jaminan Kesehatan 17.553.604.196,63 12.347.881.425,00 70,34"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-3",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 0.5,
+    "alasan": "Realisasi belanja iuran JKN mencapai 70,34% dari pagu 2025, di atas ambang 50% kriteria a. Angka LKPD bersifat tahunan, bukan realisasi satu semester.",
+    "bukti": [
+      {
+        "sumber": "lkpd-2025",
+        "halaman": 2,
+        "lokasi": "Halaman 2, Tabel 5.6.2, baris Iuran Jaminan Kesehatan ASN",
+        "kutipan": "Iuran Jaminan Kesehatan 17.553.604.196,63 12.347.881.425,00 70,34"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-4",
+    "tahun": 2025,
+    "kriteria": "c",
+    "nilai": 0.0,
+    "alasan": "Cakupan kepesertaan JKN tahun 2025 baru 87,89% dan peserta aktif 87,49%, di bawah 90%, sehingga kriteria c.",
+    "bukti": [
+      {
+        "sumber": "lakip-kabupaten-2025",
+        "halaman": 86,
+        "lokasi": "Halaman 86, bagian Cakupan Kepesertaan JKN",
+        "kutipan": "Cakupan Kepesertaan JKN tahun 2025 sebesar 87,89"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-5",
+    "tahun": 2025,
+    "kriteria": "c",
+    "nilai": 0.0,
+    "alasan": "Keaktifan peserta JKN 87,49% dan tidak ada anggaran iuran JKN Non ASN, sehingga cakupan pekerja termasuk Non ASN belum mencapai 90% (kriteria c).",
+    "bukti": [
+      {
+        "sumber": "lakip-kabupaten-2025",
+        "halaman": 87,
+        "lokasi": "Halaman 87, paragraf setelah tabel Cakupan Kepesertaan JKN",
+        "kutipan": "keaktifan peserta baru mencapai 87,49%"
+      },
+      {
+        "sumber": "lkpd-2025",
+        "halaman": 2,
+        "lokasi": "Halaman 2, Tabel 5.6.2, baris Iuran Jaminan Kesehatan Non ASN",
+        "kutipan": "Iuran Jaminan Kesehatan 0,00 0,00 0,00 0,00 Non ASN"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-6",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 0.75,
+    "alasan": "Anggaran bantuan iuran PBPU/BP kelas 3 tersedia dan dibayarkan, tetapi masih terdapat utang iuran Rp1,29 miliar per 31 Desember 2025, sesuai kriteria b.",
+    "bukti": [
+      {
+        "sumber": "lkpd-2025",
+        "halaman": 199,
+        "lokasi": "Halaman 199, catatan atas laporan keuangan tentang utang iuran jaminan",
+        "kutipan": "Saldo Utang Belanja Iuran Jaminan per 31 Desember 2025 sebesar Rp1.290.131.924,00"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-7",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 0.75,
+    "alasan": "Iuran wajib PPU dianggarkan dan dibayar 70,34% dari pagu, berada pada rentang 50-75% sesuai kriteria b.",
+    "bukti": [
+      {
+        "sumber": "lkpd-2025",
+        "halaman": 2,
+        "lokasi": "Halaman 2, Tabel 5.6.2, baris Iuran Jaminan Kesehatan ASN",
+        "kutipan": "Iuran Jaminan Kesehatan 17.553.604.196,63 12.347.881.425,00 70,34"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-8",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan data ketersediaan obat dan alat kesehatan terhadap daftar Formularium Nasional dan Kompendium Alat Kesehatan di fasilitas kesehatan.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-1/indikator-1-9",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 1.0,
+    "alasan": "Terdapat inovasi layanan JKN (pelayanan BPJS Kesehatan Keliling dan kebijakan tidak ada penolakan pendaftaran bagi warga rentan) yang terdokumentasi di LAKIP, tetapi belum ditetapkan dengan Peraturan Kepala Daerah, sehingga kriteria b.",
+    "bukti": [
+      {
+        "sumber": "lakip-kabupaten-2025",
+        "halaman": 88,
+        "lokasi": "Halaman 88, bagian langkah konkrit Pemerintah Kabupaten Tulang Bawang Barat",
+        "kutipan": "Pelaksanaan Pelayanan BPJS Kesehatan Keliling Bersama Tiyuh"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-1",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.0,
+    "alasan": "Satgas Percepatan Penyelenggaraan Program Makan Bergizi Gratis dibentuk dengan Kepbup 181/2025 dan program berjalan dengan 40 SPPG mandiri beroperasi, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "kepbup-181-2025-satgas-mbg",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Keputusan Bupati Nomor 100.3.3.2/181/II.13/HK/2025",
+        "kutipan": "SATUAN TUGAS PERCEPATAN PENYELENGGARAAN PROGRAM MAKAN BERGIZI GRATIS"
+      },
+      {
+        "sumber": "berita-tubaba-hut-17-kopdes-sppg",
+        "halaman": null,
+        "lokasi": "Butir Ketahanan Pangan & Gizi pada sambutan Bupati",
+        "kutipan": "Tubaba saat ini telah mengoperasikan 40 Satuan Pelayanan Program Gizi (SPPG) mandiri dari target total 53 unit"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-2",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan bukti penyediaan sarana dan prasarana kantor bagi pelaksanaan tugas Satgas MBG.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-3",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan laporan pelaksanaan Satgas MBG (rencana kerja, permasalahan, identifikasi titik lokasi SPPG) kepada Menteri Dalam Negeri dan Kepala Badan Gizi Nasional.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-4",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ada data persentase ibu hamil dan ibu menyusui yang mendapat bantuan makanan bergizi.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-5",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ada data persentase anak balita yang mendapat bantuan makanan bergizi.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-6",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Capaian yang tersedia baru jumlah SPPG (40 dari target 53 unit), bukan persentase siswa dan santri penerima bantuan makanan bergizi.",
+    "bukti": [
+      {
+        "sumber": "berita-tubaba-hut-17-kopdes-sppg",
+        "halaman": null,
+        "lokasi": "Butir Ketahanan Pangan & Gizi pada sambutan Bupati",
+        "kutipan": "40 Satuan Pelayanan Program Gizi (SPPG) mandiri dari target total 53 unit"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "c-kesehatan-untuk-semua/program-2/indikator-2-7",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan inovasi program Makan Bergizi Gratis, apalagi yang ditetapkan dengan Peraturan Kepala Daerah.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "d-perluasan-akses-pendidikan/program-1/indikator-1-1",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "APBD 2025 memuat kegiatan dan anggaran pendidikan: penyediaan pendidik dan tenaga kependidikan SD (Rp146,79 miliar) dan pengelolaan Dana BOS SD (Rp20,05 miliar), sebagai penjabaran RKPD 2025. Program, kegiatan, dan anggaran terpenuhi.",
+    "bukti": [
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 26,
+        "lokasi": "Halaman 26, Sub Kegiatan 1.01.02.2.01.0026 Penyediaan Pendidik dan Tenaga Kependidikan bagi Satuan Pendidikan Sekolah Dasar",
+        "kutipan": "Penyediaan Pendidik dan Tenaga Kependidikan bagi Satuan Pendidikan Sekolah Dasar"
+      },
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 27,
+        "lokasi": "Halaman 27, Sub Kegiatan 1.01.02.2.01.0029 Pengelolaan Dana BOS Sekolah Dasar",
+        "kutipan": "Pengelolaan Dana BOS Sekolah Dasar"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "d-perluasan-akses-pendidikan/program-1/indikator-1-2",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan data persentase satuan pendidikan yang melaksanakan digitalisasi pembelajaran.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "d-perluasan-akses-pendidikan/program-1/indikator-1-3",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan data persentase madrasah dan satuan pendidikan keagamaan yang memenuhi Standar Nasional Pendidikan sarana prasarana.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "d-perluasan-akses-pendidikan/program-1/indikator-1-4",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan data persentase satuan pendidikan formal dan nonformal yang memenuhi Standar Nasional Pendidikan sarana prasarana.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "d-perluasan-akses-pendidikan/program-1/indikator-1-5",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 2.0,
+    "alasan": "Inovasi pendidikan berupa Program Tulang Bawang Barat Cerdas dan Guru Penggerak ditetapkan dengan Perbup 20/2025; arahnya peningkatan mutu guru, bukan revitalisasi sarana prasarana.",
+    "bukti": [
+      {
+        "sumber": "perbup-20-2025-tubaba-cerdas",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 20 Tahun 2025",
+        "kutipan": "PROGRAM TULANG BAWANG BARAT CERDAS"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-1",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Tugas TPID didukung Peta Jalan Pengendalian Inflasi 2025-2027 (Kepbup 122/2025) dan APBD 2025 memuat anggaran stabilisasi pasokan dan harga pangan serta penyediaan informasi harga pangan, sehingga kriteria a terpenuhi.",
+    "bukti": [
+      {
+        "sumber": "kepbup-122-2025-peta-jalan-inflasi",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Keputusan Bupati Nomor 100.3.3.2/122/I.04/HK/2025",
+        "kutipan": "PETA JALAN PENGENDALIAN INFLASI DAERAH TAHUN 2025-2027"
+      },
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 158,
+        "lokasi": "Halaman 158, Sub Kegiatan 2.09.03.2.01.0008 Stabilisasi Pasokan dan Harga Pangan",
+        "kutipan": "Stabilisasi Pasokan dan Harga Pangan Tingkat Produsen dan Konsumen di Kabupaten/Kota"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-2",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.0,
+    "alasan": "APBD 2025 menyediakan Belanja Tidak Terduga Rp1 miliar yang dapat digunakan untuk pengendalian harga barang dan jasa kebutuhan pokok, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "perda-12-2024-apbd-2025",
+        "halaman": 17,
+        "lokasi": "Halaman 17, Pasal 9 ayat (2) dan rincian Belanja Tidak Terduga",
+        "kutipan": "5.3 BELANJA TIDAK TERDUGA 1.000.000.000,00"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-3",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Laporan Kinerja Sekretariat TPID Semester I 2026 mendokumentasikan sedikitnya enam langkah konkrit: operasi pasar dan pasar murah, gerakan pangan murah, sidak pasar, pemantauan stok dan harga, pengawasan distribusi LPG/BBM, serta koordinasi antar daerah.",
+    "bukti": [
+      {
+        "sumber": "adc1aae82988",
+        "halaman": 3,
+        "lokasi": "Halaman 1, tabel evaluasi pelaksanaan tugas Bupati, aspek Bagian Perekonomian",
+        "kutipan": "4x monitoring tiap bulan"
+      },
+      {
+        "sumber": "adc1aae82988",
+        "halaman": 6,
+        "lokasi": "Halaman 19, bagian KETERJANGKAUAN HARGA",
+        "kutipan": "Tim TPID dengan melaksanakan Operasi pasar dan bekerja sama dengan Bulog KC Tulang Bawang Barat dan pasar murah"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-4",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Pemantauan harga dilakukan 4 kali sebulan, bukan laporan harian kepada Menteri Dalam Negeri c.q. Inspektur Jenderal, dan belum ada bukti pengiriman laporan harian.",
+    "bukti": [
+      {
+        "sumber": "adc1aae82988",
+        "halaman": 3,
+        "lokasi": "Halaman 1, tabel evaluasi pelaksanaan tugas Bupati",
+        "kutipan": "4x monitoring tiap bulan"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-5",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "BPS Provinsi Lampung tidak menghitung inflasi Kabupaten Tulang Bawang Barat pada 2025 (hanya 4 wilayah di Lampung), sehingga perbandingan laju inflasi daerah dengan rata-rata nasional tidak tersedia.",
+    "bukti": [
+      {
+        "sumber": "lakip-kabupaten-2025",
+        "halaman": 127,
+        "lokasi": "Halaman 127, sub-bagian Tingkat Inflasi",
+        "kutipan": "Untuk tahun 2025 penilaian inflasi daerah dilaksanakan di 4 wilayah saja yaitu Bandar Lampung, Metro, Lampung Timur dan Mesuji"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-6",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Pertumbuhan ekonomi Tubaba 2025 sebesar 5,15% di atas rata-rata nasional 5,10%, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "bps-tubaba-dalam-angka-2026",
+        "halaman": 563,
+        "lokasi": "Halaman 563, Tabel 13.2 Laju Pertumbuhan PDRB ADHK 2010 Menurut Kabupaten/Kota, 2022-2025",
+        "kutipan": "Tulang Bawang Barat 4,49 4,53 4,55 5,15"
+      },
+      {
+        "sumber": "bps-nasional-statistik-indonesia-2026",
+        "halaman": 46,
+        "lokasi": "Halaman 46, Tabel 0.1 ringkasan statistik kunci, baris Laju pertumbuhan ekonomi 2021-2025",
+        "kutipan": "Laju pertumbuhan ekonomi11/Economic growth11 % 3,7 5,3 5,1 5,0* 5,1**"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-1/indikator-1-7",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 1.0,
+    "alasan": "Terdapat inovasi dan strategi daerah untuk pengendalian inflasi (Peta Jalan Pengendalian Inflasi 2025-2027, gerakan pangan murah), tetapi ditetapkan melalui Keputusan Bupati, bukan Peraturan Kepala Daerah, sehingga kriteria b.",
+    "bukti": [
+      {
+        "sumber": "kepbup-122-2025-peta-jalan-inflasi",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Keputusan Bupati Nomor 100.3.3.2/122/I.04/HK/2025",
+        "kutipan": "PETA JALAN PENGENDALIAN INFLASI DAERAH TAHUN 2025-2027"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-1",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Kebijakan dan komitmen tertuang dalam Perbup 30/2025 dan Program Hasil Terbaik Cepat pada Perubahan RKPD 2025, tetapi belum ditemukan sub-kegiatan dan anggaran khusus pembangunan gerai, pergudangan, dan kelengkapan Kopdes dalam APBD.",
+    "bukti": [
+      {
+        "sumber": "perbup-30-2025-koperasi-desa-merah-putih",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 30 Tahun 2025",
+        "kutipan": "PENYELENGGARAAN KOPERASI DESA/KELURAHAN MERAH PUTIH"
+      },
+      {
+        "sumber": "perbup-22-2025-perubahan-rkpd-2025",
+        "halaman": 132,
+        "lokasi": "Halaman 132, Program Hasil Terbaik Cepat Bupati, butir 8",
+        "kutipan": "pembentukan Koperasi Desa Merah Putih"
+      },
+      {
+        "sumber": "perbup-33-2025-penjabaran-perubahan-apbd-2025",
+        "halaman": 492,
+        "lokasi": "Halaman 492, Sub Kegiatan 2.17.03.2.01.0003 Penguatan Tata Kelola Kelembagaan Koperasi",
+        "kutipan": "Sub Kegiatan : 2.17.03.2.01.0003 Penguatan Tata Kelola Kelembagaan Koperasi"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-2",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ada penetapan lokasi lahan minimal 1.000 m2 untuk Kopdes; pemerintah daerah masih melakukan identifikasi lahan aset pemerintah.",
+    "bukti": [
+      {
+        "sumber": "berita-tubaba-hut-17-kopdes-sppg",
+        "halaman": null,
+        "lokasi": "Butir Ekonomi Kerakyatan pada sambutan Bupati",
+        "kutipan": "69 koperasi sedang dalam proses pembangunan, sementara sisanya terus didorong melalui identifikasi lahan aset pemerintah"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-3",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan bukti penerbitan perizinan pembangunan fisik gerai dan pergudangan Kopdes.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-4",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan laporan fasilitasi penyelesaian konflik pertanahan/lahan Kopdes maupun pernyataan tidak terdapat konflik.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-5",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Tugas pendampingan sudah tercantum dalam Kepbup 145/2025, tetapi belum ditemukan laporan pelaksanaan pembinaan dan pengawasan percepatan pembangunan Kopdes.",
+    "bukti": [
+      {
+        "sumber": "kepbup-145-2025-satgas-koperasi-merah-putih",
+        "halaman": 2,
+        "lokasi": "Halaman 2, Diktum KEDUA huruf c",
+        "kutipan": "melakukan pendampingan kepada Koperasi dari aspek kelembagaan, usaha dan penguatan sumber daya manusia"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-6",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "Belum ditemukan laporan dukungan pemerintah daerah atas percepatan pembangunan Kopdes kepada Menteri Dalam Negeri dan Menteri Koperasi.",
+    "bukti": [],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-7",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.0,
+    "alasan": "Seluruh 103 desa/kelurahan telah memiliki Koperasi Desa/Kelurahan Merah Putih (103 koperasi) dari 103 desa/kelurahan, sehingga capaian 100% dan kriteria a.",
+    "bukti": [
+      {
+        "sumber": "berita-tubaba-hut-17-kopdes-sppg",
+        "halaman": null,
+        "lokasi": "Butir Ekonomi Kerakyatan pada sambutan Bupati",
+        "kutipan": "Fokus pada penguatan 103 Koperasi Desa Merah Putih"
+      },
+      {
+        "sumber": "bps-tubaba-dalam-angka-2026",
+        "halaman": 70,
+        "lokasi": "Halaman 16, Tabel 1.1.4 Jumlah Desa/Kelurahan Menurut Kecamatan 2021-2025",
+        "kutipan": "Tulang Bawang Barat – – – 103 103 103"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-2/indikator-2-8",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 2.0,
+    "alasan": "Inovasi percepatan pembentukan Kopdes ditetapkan dengan Perbup 30/2025 yang mengatur pendirian, pengembangan, dan revitalisasi koperasi desa/kelurahan, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "perbup-30-2025-koperasi-desa-merah-putih",
+        "halaman": 1,
+        "lokasi": "Halaman 1, bagian Menimbang huruf b Perbup 30/2025",
+        "kutipan": "perlu membentuk Koperasi Desa/Kelurahan Merah Putih melalui pendirian, pengembangan, dan revitalisasi koperasi di desa/kelurahan"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-3/indikator-3-1",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 0.875,
+    "alasan": "Persyaratan KKPR dan PBG sudah dilayani melalui SOP forum penataan ruang dan SOP PBG, tetapi belum ditemukan bukti persetujuan lingkungan sebagai bagian persyaratan dasar perizinan berusaha, sehingga kriteria b.",
+    "bukti": [
+      {
+        "sumber": "f14e7ccdd146",
+        "halaman": 1,
+        "lokasi": "Halaman 1, Standar Operasional Prosedur Pemanfaatan Ruang pada DPUPR",
+        "kutipan": "STANDAR OPERASIONAL PROSEDUR PEMANFAATAN RUANG"
+      },
+      {
+        "sumber": "03c7ea11d3d1",
+        "halaman": 19,
+        "lokasi": "Contoh SOP layanan perizinan, bagian Waktu",
+        "kutipan": "Jangka waktu penyelesaian adalah 7 (tujuh) hari kerja setelah berkas persyaratan dinyatakan lengkap"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-3/indikator-3-2",
+    "tahun": 2025,
+    "kriteria": "b",
+    "nilai": 0.875,
+    "alasan": "Perda tentang pemberian insentif dan kemudahan penanaman modal sudah ada (Perda 16/2013), tetapi SOP pelaksanaan yang ditetapkan kepala daerah secara khusus belum ditemukan. Perbup 24/2025 mengatur insentif fiskal pajak dan retribusi, bukan SOP Perda 16/2013.",
+    "bukti": [
+      {
+        "sumber": "perda-16-2013-insentif-penanaman-modal",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Daerah Nomor 16 Tahun 2013",
+        "kutipan": "PEMBERIAN INSENTIF DAN PEMBERIAN KEMUDAHAN PENANAMAN MODAL"
+      },
+      {
+        "sumber": "perbup-24-2025-insentif-fiskal",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 24 Tahun 2025",
+        "kutipan": "TATA CARA PEMBERIAN INSENTIF FISKAL PAJAK DAERAH DAN RETRIBUSI DAERAH BAGI PELAKU USAHA"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-3/indikator-3-3",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Perizinan berusaha dilayani melalui sistem elektronik terintegrasi (OSS, SICANTIK, SIMBG) dan didukung SIBERUGO untuk integrasi antar gerai Mal Pelayanan Publik, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "aa9a54303a12",
+        "halaman": 1,
+        "lokasi": "Baris daftar aplikasi perizinan yang digunakan DPMPTSP",
+        "kutipan": "Https://OSS.go.id"
+      },
+      {
+        "sumber": "perbup-36-2025-siberugo",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 36 Tahun 2025",
+        "kutipan": "SISTEM INFORMASI BERSAMA ANTAR GERAI MAL PELAYANAN PUBLIK BERBASIS ONLINE"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-3/indikator-3-4",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 1.5,
+    "alasan": "Sarana pengaduan elektronik tersedia melalui WhatsApp, situs DPMPTSP, dan portal Mal Pelayanan Publik, dengan dokumentasi pengelolaan pengaduan, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "37e1d1808340",
+        "halaman": 1,
+        "lokasi": "Tabel kanal pengaduan layanan perizinan",
+        "kutipan": "https://wa.me/message/SDWJRQN6J2X4K1"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-3/indikator-3-5",
+    "tahun": 2025,
+    "kriteria": null,
+    "nilai": null,
+    "alasan": "LAKIP 2025 hanya melaporkan pertumbuhan investasi 1,9% terhadap target 5%, bukan nilai PMA/PMDN terhadap target. Angka realisasi PMA/PMDN 2025 tidak ditemukan sehingga kriteria tidak dapat dinilai.",
+    "bukti": [
+      {
+        "sumber": "lakip-kabupaten-2025",
+        "halaman": 126,
+        "lokasi": "Halaman 126, sub-bagian Pertumbuhan Investasi",
+        "kutipan": "pertumbuhan investasi tahun 2025 sebesar 1,9% dari target yang ditetapkan yaitu sebesar 5%"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  },
+  {
+    "indikator": "e-pertumbuhan-ekonomi/program-3/indikator-3-6",
+    "tahun": 2025,
+    "kriteria": "a",
+    "nilai": 2.0,
+    "alasan": "Inovasi percepatan kemudahan perizinan berupa SIBERUGO telah ditetapkan dengan Perbup 36/2025, memenuhi kriteria a.",
+    "bukti": [
+      {
+        "sumber": "perbup-36-2025-siberugo",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Bupati Nomor 36 Tahun 2025",
+        "kutipan": "SISTEM INFORMASI BERSAMA ANTAR GERAI MAL PELAYANAN PUBLIK BERBASIS ONLINE"
+      },
+      {
+        "sumber": "1a8ff52fe126",
+        "halaman": 6,
+        "lokasi": "Halaman 1, profil inovasi daerah SIBERUGO",
+        "kutipan": "SISTEM INFORMASI BERSAMA ANTAR GERAI"
+      },
+      {
+        "sumber": "perda-4-2025-inovasi-daerah",
+        "halaman": 1,
+        "lokasi": "Halaman 1, judul Peraturan Daerah Nomor 4 Tahun 2025",
+        "kutipan": "PERATURAN DAERAH KABUPATEN TULANG BAWANG BARAT NOMOR 4 TAHUN 2025 TENTANG INOVASI DAERAH"
+      }
+    ],
+    "penilai": "AI",
+    "terverifikasi": false
+  }
+]

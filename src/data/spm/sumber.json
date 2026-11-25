@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rpjmd-2025-2029",
+    "judul": "Peraturan Daerah Kabupaten Tulang Bawang Barat tentang Rencana Pembangunan Jangka Menengah Daerah Tahun 2025–2029",
+    "penerbit": "Bappeda Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2025,
+    "jenis": "rpjmd",
+    "href": "/api/dokumen/b268f44dbfce/berkas",
+    "dokId": "b268f44dbfce",
+    "indikator": [],
+    "ukuranKb": 10309
+  },
+  {
+    "id": "perbup-18-2026-rkpd-2027",
+    "judul": "Peraturan Bupati Tulang Bawang Barat Nomor 18 Tahun 2026 tentang Rencana Kerja Pemerintah Daerah Tahun 2027",
+    "penerbit": "Pemerintah Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2026,
+    "jenis": "dokumen",
+    "href": "/api/sumber/spm/perbup-18-2026-rkpd-2027.pdf",
+    "dokId": null,
+    "indikator": [],
+    "ukuranKb": 19694
+  },
+  {
+    "id": "perbup-15-2026-renaksi-spm",
+    "judul": "Peraturan Bupati Tulang Bawang Barat Nomor 15 Tahun 2026 tentang Rencana Aksi Daerah Penerapan Standar Pelayanan Minimal Tahun 2026-2030",
+    "penerbit": "Pemerintah Kabupaten Tulang Bawang Barat",
+    "tahunTerbit": 2026,
+    "jenis": "dokumen",
+    "href": "/api/sumber/spm/perbup-15-2026-renaksi-spm.pdf",
+    "dokId": null,
+    "indikator": [],
+    "ukuranKb": 1312
+  }
+]
