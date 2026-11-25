@@ -11,7 +11,7 @@ PANRB 8/2026), Kinerja Makro, Capaian SPM, kesiapan OPD, dokumen bukti, dan tany
 |---|---|
 | Everything, before any handoff | `scripts/check.sh` (budget: 10 minutes) |
 | Only the parts your change can affect, while iterating | `scripts/check.sh --changed` (budget: 2 minutes) |
-| One test | `bun test src/lib/makro-hitung.test.ts -t "name"`; Rust: `cd rust && cargo test -p pemdi-domain parity` |
+| One test | TS: `bun test <file>.test.ts -t "name"` (no TS tests yet, see `TEST-1`); Rust: `cd rust && cargo test -p pemdi-domain parity` |
 | Oracle (old TS code as spec) | `bun scripts/oracle/cases.ts <module>` writes `tests/parity/<module>.cases` |
 | Rust API locally | `cd rust && cargo run -p pemdi-api` → http://localhost:3200/api/health |
 | One backlog row | `scripts/backlog.sh get <ID>` (reads `docs/core/BACKLOG.md` on main; never read the whole file) |

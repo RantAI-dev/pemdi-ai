@@ -30,7 +30,7 @@ BUDGET_STAGED="${CHECK_BUDGET_STAGED:-15}"
 ts_paths='\.(ts|tsx|js|jsx|mjs|cjs)$|(^|/)(package\.json|bun\.lock|tsconfig[^/]*\.json|biome\.json)$'
 # Lint errors on the old code are frozen by the ratchet (.agents/ratchet.tsv: ts-lint), not fixed
 # here; the test step runs once the first *.test.ts exists.
-ts_full()  { bun run typecheck && { git ls-files '*.test.ts' '*.test.tsx' | grep -q . && bun test || true; }; }
+ts_full()  { bun run typecheck || return 1; if git ls-files '*.test.ts' '*.test.tsx' | grep -q .; then bun test; fi; }
 ts_fast()  { bunx biome lint --staged --no-errors-on-unmatched --only=suspicious/noExplicitAny; }
 
 rust_paths='^rust/|^tests/parity/|(^|/)Cargo\.(toml|lock)$'
