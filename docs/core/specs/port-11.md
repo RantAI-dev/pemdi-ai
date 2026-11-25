@@ -24,9 +24,12 @@ dengan hari ini, untuk setiap kombinasi nilai indikator yang diuji.
 ## Rancangan
 
 - `rust/crates/pemdi-domain/src/pemdi/`: tipe aspek dan indikator dengan bobotnya
-  (tabel `ASPEK`/`INDIKATOR` di `src/data/pemdi.ts`), kriteria tingkat dari
-  `src/data/permen-kriteria.json` (dibaca dengan `include_str!`, diurai sekali), `hitung_indeks`,
-  `predikat`.
+  (tabel `ASPEK`/`INDIKATOR` di `src/data/pemdi.ts`), `hitung_indeks`, `predikat`.
+- Data kerangka menjadi `static` Rust, **tidak** diurai saat jalan: `pemdi-domain` tidak boleh
+  memakai serde atau membaca berkas (ADR 0002). Skrip `scripts/kerangka-rust.ts` membangkitkan
+  `src/pemdi/data.rs` dari `src/data/pemdi.ts` dan `src/data/permen-kriteria.json`; gate
+  memeriksa hasilnya sama (seperti `scripts/error-codes.sh`). Spec `PORT-12`/`PORT-13` memakai
+  cara yang sama.
 - Oracle: entri `pemdi` di `scripts/oracle/modules.ts`; generator di `cases.ts` dengan kasus
   semua indikator dinilai, sebagian dinilai (nilai sementara), nilai tepi pita predikat (1,4999;
   1,5; 2,4999; …), dan nilai di luar 1–5.

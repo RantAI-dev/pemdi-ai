@@ -35,8 +35,11 @@ flowchart LR
         P46[PORT-46 shadow] --> P47[PORT-47 cutover] --> P48[PORT-48 konvensi API]
     end
     subgraph FE["Frontend (paralel)"]
-        F1[FE-1 pecah dasbor] ; F2[FE-2 a11y] ; F3[FE-3 non-null] ; F4[FE-4 struktur fitur]
-        P4 --> F6[FE-6 klien API] --> F5[FE-5 halaman via API]
+        F1[FE-1 pecah dasbor] --> F4[FE-4 struktur fitur + boundaries]
+        F4 --> F2[FE-2 a11y] & F7[FE-7 format] 
+        F7 --> F8[FE-8 status] & F9[FE-9 primitif]
+        F6[FE-6 klien API<br/>kontrak tulisan tangan] --> F5[FE-5 halaman via API] & F13[FE-13 error UI]
+        P4 -.ganti tipe.-> F6
     end
     M0 --> M1 --> M2 --> M3 --> M4
     P40 --> F5
@@ -83,12 +86,16 @@ dihapus di minggu yang sama. `PORT-48`: konvensi API RantAI.
 
 ## Frontend (paralel sejak M1)
 
-`FE-1`–`FE-4` tidak bergantung pada Rust dan bisa dikerjakan kapan saja. `FE-6` dan `FE-5`
-menunggu `PORT-4` dan route Rust masing-masing. Rinciannya di
-[`../port/frontend-audit.md`](../port/frontend-audit.md).
+Tidak bergantung pada Rust, bisa mulai sekarang, berurutan: `FE-1` → `FE-4` (a: boundaries di
+gate, b: dua fitur pertama, c: sisanya) → `FE-2`, `FE-7` → `FE-8`, `FE-9`. `FE-3` setelah
+`TEST-1`. `FE-6` (klien API dengan tipe kontrak tulisan tangan) juga bisa mulai sekarang;
+`PORT-4` nanti mengganti tipenya dengan hasil generate. `FE-5` berjalan per halaman, mengikuti
+route Rust yang sudah cutover. `FE-10`–`FE-12` sesudahnya. Data dan alasan tiap slice:
+[`../port/frontend-audit.md`](../port/frontend-audit.md) §7.
 
 ## Yang menunggu owner
 
 `DEC-2` (pembangkit tipe), `DEC-3` (LLM produksi), `DEC-4` (alat build data), `DEC-5` (OCR),
-`DEC-6` (PROSN). Pelaksana tidak memutuskan ini; bila task tertahan, tulis di PR dan lanjut ke
+`DEC-6` (PROSN), `DEC-7` (dependensi crate untuk adapter: `reqwest`, `regex`, `scrypt`, dan lainnya;
+menahan sebagian besar M2). Pelaksana tidak memutuskan ini; bila task tertahan, tulis di PR dan lanjut ke
 task lain.

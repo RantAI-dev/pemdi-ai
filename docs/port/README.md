@@ -52,7 +52,9 @@ echo '{"fn":"capaian","args":[80,100,"naik"]}' | bun scripts/oracle/run.ts makro
 - `scripts/oracle/cases.ts <modul> [seed]` membangkitkan input (termasuk nilai tepi dari daftar
   "What differs between languages") dan menulis `tests/parity/<modul>.cases`. Jangan pernah
   menyunting case file dengan tangan.
-- Test paritas Rust (`rust/crates/*/tests/parity_*.rs`) membaca case file yang sama.
+- Test paritas Rust (`rust/crates/*/tests/parity_*.rs`) membaca case file yang sama, atau berkas
+  lain bila `PARITY_CASES` di-set (untuk kasus yang belum dilihat, §5). Ikuti pola `cases()` di
+  `parity_makro.rs`.
 - Oracle, case file, dan test paritas ada di `.agents/protected-paths`.
 
 Untuk modul yang memakai I/O (lakehouse, LLM, berkas), oracle-nya berupa rekaman
@@ -84,6 +86,7 @@ pada kasus itu:
 
 ```bash
 bun scripts/oracle/cases.ts makro-hitung 777 /tmp/unseen.cases
+(cd rust && PARITY_CASES=/tmp/unseen.cases cargo test -p pemdi-domain --test parity_makro)
 ```
 
 (Langkah ini akan dijadikan skrip `scripts/oracle/unseen.sh`, backlog `PORT-2`.)

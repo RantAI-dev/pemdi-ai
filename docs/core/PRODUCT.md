@@ -33,7 +33,7 @@ bagian Features).
 
 | Fitur | Halaman | Catatan |
 | --- | --- | --- |
-| Beranda | [beranda](features/beranda.md) | Ringkasan indeks, kinerja daerah, kesiapan OPD |
+| Beranda | [beranda](features/beranda.md) | Ringkasan indeks dan kinerja daerah, keterlibatan OPD per indikator |
 | Indeks Pemdi | [indeks-pemdi](features/indeks-pemdi.md) | 7 aspek, 20 indikator; nilai sementara bila ada indikator belum dinilai |
 | Kinerja Makro | [kinerja-makro](features/kinerja-makro.md) | 6 indikator LPPD, target RPJMD Tabel 4.7, sumber PDF di bawah halaman |
 | Capaian SPM | [capaian-spm](features/capaian-spm.md) | Indeks SPM kab. 2023–2025, dari RKPD 2027 |

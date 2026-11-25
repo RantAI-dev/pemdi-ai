@@ -48,12 +48,16 @@ PR yang mengerjakan sebuah item juga mengubah baris item itu, dan hanya baris it
 | `PORT-23` | Task | Adapter berkas sumber dan data Makro/SPM/PROSN (`makro.ts`, `spm.ts`, `prosn.ts`, `berkas.ts`), termasuk whitelist manifest | Port | P1 | Todo |  | ledger §2 |
 | `PORT-24` | Task | Adapter intake (ekstraksi teks PDF/Office, OCR). **Blocked by `DEC-5`** | Port | P1 | Todo |  | ledger §2 |
 | `PORT-25` | Task | Adapter pengguna dan sesi (`users.ts`, `auth.ts`): cookie `pemdi_sesi` tetap kompatibel | Port | P1 | Todo |  | ledger §2 |
-| `FE-1` | Task | Pecah `src/app/dasbor.tsx` (733 baris, dibekukan ratchet) menjadi komponen per panel; bukti tangkapan layar sebelum/sesudah | Frontend | P1 | Todo |  | `docs/port/frontend-audit.md` |
-| `FE-2` | Task | Turunkan ratchet `ts-lint`: perbaiki aksesibilitas (`useKeyWithClickEvents`, `noStaticElementInteractions`, `useSemanticElements`: 37 temuan) | Frontend | P1 | Todo |  | ratchet 134 |
-| `FE-3` | Task | Hapus 47 non-null assertion (`!`) dengan pengecekan yang benar | Frontend | P2 | Todo |  | ratchet 134 |
-| `FE-4` | Task | Susun UI per fitur (`src/features/<slice>/` dengan `index.ts`) dan pasang `scripts/check-boundaries.ts` di gate: komponen tidak mengimpor modul server | Frontend | P1 | Todo |  | guidelines stacks/typescript |
-| `FE-5` | Task | Halaman mengambil data lewat klien API, bukan mengimpor `src/lib` server. Per halaman, mengikuti route Rust yang sudah cutover. **Blocked by `PORT-4`** | Frontend | P1 | Todo |  | ADR 0001 |
-| `FE-6` | Task | Satu klien API (`src/api/client.ts`) yang membaca badan error standar dan mengembalikan tipe dari `src/contracts/`. **Blocked by `PORT-4`** | Frontend | P1 | Todo |  | ADR 0003 |
+| `FE-1` | Task | Pecah `src/app/dasbor.tsx` (733 baris, dibekukan ratchet) menjadi panel `ringkasan`, `indikator`, `temuan`, `pilih` (bagian a), lalu hapus impor lintas-rute `@/app/dasbor` dan `@/app/dashboard-pemdi/dasbor-pemdi` (bagian b). Spec `specs/fe-1.md` | Frontend | P1 | Todo |  | `docs/port/frontend-audit.md` §7 #1–2 |
+| `FE-2` | Task | Tiga rule aksesibilitas Biome ke nol (`useKeyWithClickEvents`, `noStaticElementInteractions`, `useSemanticElements`: 37 temuan; terbanyak `viz-spm`, `viz-prosn`, `viz-makro`). Spec `specs/fe-2.md`. **Blocked by `FE-4`** (bagian a: gate) | Frontend | P1 | Todo |  | `docs/port/frontend-audit.md` §7 #6 |
+| `FE-3` | Task | Hapus 47 non-null assertion (`!`) tanpa mengubah angka tampil. Spec `specs/fe-3.md`. **Blocked by `TEST-1`** | Frontend | P2 | Todo |  | `docs/port/frontend-audit.md` §7 #7 |
+| `FE-4` | Task | Struktur per fitur: `scripts/check-boundaries.ts` + skrip `lint`/`boundaries`/`test` dan penyambungannya ke gate (bagian a), pindahkan `indeks-pemdi` dan `masuk` ke `src/features/` (bagian b), sisa fitur satu PR per fitur (bagian c). Spec `specs/fe-4.md` | Frontend | P1 | Todo |  | `docs/port/frontend-audit.md` §7 #3–5 |
+| `FE-5` | Task | Halaman mengambil data lewat klien API, satu PR per halaman (bagian a `/data` … j `/login`, urutan dan endpoint di spec). Setiap bagian **Blocked by** route Rust-nya (`PORT-30`–`PORT-45`). Spec `specs/fe-5.md`. **Blocked by `FE-6`** | Frontend | P2 | Todo |  | `docs/port/frontend-audit.md` §7 #14–23 |
+| `FE-6` | Task | Satu klien API (`src/api/client.ts`): satu-satunya `fetch`, satu pembaca badan error; tipe di `src/contracts/` ditulis tangan dulu sebagai seam, diganti hasil generate oleh `PORT-4`. Bisa mulai sekarang. Spec `specs/fe-6.md` | Frontend | P1 | Todo |  | `docs/port/frontend-audit.md` §7 #13; owner/planner 2026-11-25 |
+| `FE-7` | Task | Satu modul format angka (`components/format.ts`): gabungkan 4 `dec`, 2 `fmtL`, `ukuran`/`fmtBytes`, `toLocaleString` inline; test karakterisasi dari keluaran hari ini. Spec `specs/fe-7.md`. **Blocked by `FE-4`** (bagian a) | Frontend | P2 | Todo |  | `docs/port/frontend-audit.md` §7 #8 |
+| `FE-8` | Task | Satu kosakata status dan satu komponen chip (`components/status.ts`; 5 sumber, `Badge` vs `Chip`). Spec `specs/fe-8.md`. **Blocked by `FE-7`** | Frontend | P2 | Todo |  | `docs/port/frontend-audit.md` §7 #9 |
+| `FE-9` | Task | Satu set primitif tampilan: hapus 4 `Judul`, 5 `Baris`, `PageHeader` vs `KepalaHalaman`. Spec `specs/fe-9.md`. **Blocked by `FE-7`** | Frontend | P2 | Todo |  | `docs/port/frontend-audit.md` §7 #10 |
+| `FE-13` | Task | Satu penanganan kesalahan UI: `code` → teks Indonesia di satu tempat (`app/error.tsx`, klien API). Spec `specs/fe-13.md`. **Blocked by `FE-6`** | Frontend | P2 | Todo |  | `docs/port/frontend-audit.md` §7 #25 |
 | `TEST-1` | Task | Test karakterisasi TypeScript untuk `hitungIndeks`, `makro-hitung`, `spm-hitung` sebelum disentuh, supaya UI lama terjaga sampai cutover | Platform | P1 | Todo |  | audit guidelines: 0 test |
 | `AI-1` | Task | Grafik jawaban AI Tubaba kadang menggambar kueri pencarian (mis. hitungan kata kunci), bukan kueri jawaban. Pilih kueri yang relevan, atau tandai kueri eksplorasi | AI Tubaba | P1 | Todo |  | tes produksi 2026-11-13 |
 | `SEC-1` | Task | Endpoint LLM produksi masih OpenCode Go (diperuntukkan agent koding). Pindah ke endpoint yang sah untuk produksi atau model lokal. **Blocked by `DEC-3`** | Keamanan | P1 | Todo |  | `docs/REVIEW-PROPOSAL.md` P0-2 |
@@ -92,6 +96,9 @@ PR yang mengerjakan sebuah item juga mengubah baris item itu, dan hanya baris it
 
 | ID | Kind | Item | Module | Priority | Status | PR | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `FE-10` | Task | Satu pustaka grafik: `charts.tsx` (ECharts) di AI Tubaba pindah ke Recharts (`viz.tsx`), `echarts` keluar dari dependensi; ukuran image diukur di host Portainer | Frontend | P3 | Todo |  | `docs/port/frontend-audit.md` §7 #11 |
+| `FE-11` | Task | Pecah berkas 400–600 baris saat disentuh (tanya, penilaian, viz-laporan, spm-detail, spm-halaman, viz-spm, viz-makro, dokumen); tanpa PR khusus | Frontend | P3 | Todo |  | `docs/port/frontend-audit.md` §7 #12 |
+| `FE-12` | Task | Hapus kode server TS lama per kelompok ledger setelah cutover: `git grep` impor = 0. **Blocked by `FE-5`, `PORT-47`** | Frontend | P3 | Todo |  | `docs/port/frontend-audit.md` §7 #24 |
 | `AI-5` | Task | RAG dokumen: tanya isi dokumen bukti dengan sitasi | AI Tubaba | P3 | Todo |  | `docs/ARSITEKTUR.md` §7.5 |
 | `SEC-4` | Task | Model bahasa lokal on-premise dan blokir egress ke LLM eksternal | Keamanan | P3 | Todo |  | `docs/REVIEW-PROPOSAL.md` |
 | `PLAT-1` | Task | Multi-tenant: `tenant_id` di semua lapisan untuk kabupaten/kota lain | Platform | P3 | Todo |  | `docs/ARSITEKTUR.md` §12 |
@@ -103,7 +110,7 @@ produksi, tetapi belum melewati checklist penerimaan owner, jadi statusnya **In 
 
 | ID | Kind | Item | Module | Priority | Status | PR | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| `FT-1` | Feature | Beranda: ringkasan indeks, kinerja daerah, kesiapan OPD | Indeks Pemdi | P1 | In Acceptance |  | `features/beranda.md` |
+| `FT-1` | Feature | Beranda: ringkasan indeks dan kinerja daerah, keterlibatan OPD per indikator | Indeks Pemdi | P1 | In Acceptance |  | `features/beranda.md` |
 | `FT-2` | Feature | Indeks Pemdi: 7 aspek, 20 indikator, temuan, nilai sementara dan predikat | Indeks Pemdi | P1 | In Acceptance |  | `features/indeks-pemdi.md` |
 | `FT-3` | Feature | Kinerja Makro: 6 indikator LPPD, capaian terhadap target RPJMD, sumber terlampir | Kinerja Daerah | P1 | In Acceptance |  | `features/kinerja-makro.md` |
 | `FT-4` | Feature | Capaian SPM per jenis layanan | Kinerja Daerah | P1 | In Acceptance |  | `features/capaian-spm.md` |
@@ -126,4 +133,5 @@ produksi, tetapi belum melewati checklist penerimaan owner, jadi statusnya **In 
 | `DEC-3` | Decision | Endpoint LLM produksi: penyedia berbayar yang sah untuk produksi, atau model lokal di server pemda | Keamanan | P1 | Open |  | `docs/REVIEW-PROPOSAL.md` |
 | `DEC-4` | Decision | Alat build data (`scripts/*-bangun.ts`, `*.py`) tetap TypeScript/Python, atau ikut ke Rust setelah cutover | Port | P3 | Open |  | ledger |
 | `DEC-5` | Decision | OCR produksi: Mistral OCR (data keluar) atau lokal (RapidOCR/PaddleOCR), per tenant | Dokumen & Bukti | P2 | Open |  | `docs/ARSITEKTUR.md` §5.4 |
+| `DEC-7` | Decision | Setujui sekaligus dependensi Rust yang dibutuhkan spec porting, supaya tidak diputuskan per PR: `reqwest` (`PORT-20`, `PORT-21`), `regex` (`PORT-12`, `PORT-31`), `scrypt` + `hmac` + `sha2` (`PORT-22`/`PORT-25`), `unicode-normalization`, `zip`, `quick-xml`, `calamine` (`PORT-24`), `sha1` (`PORT-35`). Alasan per crate ada di spec masing-masing | Port | P1 | Open |  | spec `PORT-*`, 2026-11-25 |
 | `DEC-6` | Decision | Kapan PROSN ditampilkan: setelah ~10 pilihan a/b yang meragukan direview | Kinerja Daerah | P2 | Open |  | `features/prosn.md` |

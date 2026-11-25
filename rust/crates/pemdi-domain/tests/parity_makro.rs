@@ -11,7 +11,18 @@
 use pemdi_domain::makro::{capaian, kategori, laju, laju_baik, Polaritas};
 use serde_json::Value;
 
-const CASES: &str = include_str!("../../../../tests/parity/makro-hitung.cases");
+/// `PARITY_CASES` points at another case file (unseen cases at review, `scripts/oracle/unseen.sh`);
+/// by default the committed file is read.
+fn cases() -> String {
+    let path = std::env::var("PARITY_CASES").unwrap_or_else(|_| {
+        concat!(
+            env!("CARGO_MANIFEST_DIR"),
+            "/../../../tests/parity/makro-hitung.cases"
+        )
+        .to_owned()
+    });
+    std::fs::read_to_string(&path).unwrap_or_else(|e| panic!("cannot read {path}: {e}"))
+}
 
 fn num(v: &Value) -> f64 {
     v.as_f64().expect("number argument")
@@ -49,7 +60,8 @@ fn number(x: f64) -> Value {
 fn makro_hitung_matches_oracle() {
     let mut failures = Vec::new();
     let mut count = 0;
-    for line in CASES
+    let cases = cases();
+    for line in cases
         .lines()
         .filter(|l| !l.starts_with('#') && !l.trim().is_empty())
     {
