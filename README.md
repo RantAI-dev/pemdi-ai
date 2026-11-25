@@ -7,7 +7,12 @@ mengacu pada Permen PANRB 8/2026 tentang Evaluasi Kinerja Pemerintah Digital.
 Alurnya: **dokumen apa pun → AI → data Pemdi → dasbor**.
 
 Arsitektur teknis lengkap (intake → OCR → lakehouse → AI → dasbor) ada di
-[`docs/ARSITEKTUR.md`](docs/ARSITEKTUR.md).
+[`docs/ARSITEKTUR.md`](docs/ARSITEKTUR.md). Semua dokumen (produk, backlog, fitur, ADR, porting
+ke Rust, operasi) terdaftar di [`docs/README.md`](docs/README.md). Aturan kerja untuk orang dan
+agent ada di [`AGENTS.md`](AGENTS.md); satu perintah cek: `scripts/check.sh`.
+
+Backend sedang dipindahkan ke Rust (`rust/`, [ADR 0001](docs/adr/0001-backend-rust.md));
+Next.js tetap sebagai UI.
 
 - **Dokumen.** PDF, Word, PowerPoint dan foto dibaca teksnya (OCR untuk hasil
   pindai), lalu AI mengekstrak temuan per indikator, angka yang dilaporkan,

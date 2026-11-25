@@ -1,0 +1,6 @@
+# name<TAB>command that prints one whole number. See scripts/ratchet.sh.
+# scripts/audit.sh prints ready-made lines for the stacks it finds in this repository.
+ts-any	git grep -nE ':[[:space:]]*any\b|\bas any\b' -- '*.ts' '*.tsx' ':!*.d.ts' | wc -l
+ts-suppress	git grep -nE '@ts-(ignore|expect-error|nocheck)|(eslint|oxlint)-disable|biome-ignore' -- '*.ts' '*.tsx' | wc -l
+ts-lint	bunx biome lint . --reporter=summary 2>&1 | grep -oE 'Found [0-9]+ errors?' | tr -dc 0-9 | sed 's/^$/0/'
+py-lint	uvx ruff check scripts -q --exit-zero --statistics 2>/dev/null | awk '{s+=$1} END {print s+0}'

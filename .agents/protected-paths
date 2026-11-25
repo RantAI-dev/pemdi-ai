@@ -1,0 +1,22 @@
+# One regex per line. scripts/guard-diff.sh blocks a worker's diff that touches a match.
+# These are the files that define "done" or "allowed". Changing one is the owner's decision.
+^\.agents/protected-paths$
+^scripts/(check|guard-diff|ratchet|merge-lane|backlog|tracker-lark|file-size|error-codes)\.sh$
+^\.agents/ratchet\.(tsv|lock)$
+^\.agents/size-(baseline\.tsv|exempt)$
+^\.agents/risky-paths$
+^docs/conventions\.md$
+^\.github/
+^\.githooks/
+^tests/contract/
+# Add this repo's own: migrations already applied, lint and type-check configs, the lockfile.
+# ^migrations/
+# (^|/)(biome\.json|tsconfig[^/]*\.json|clippy\.toml|ruff\.toml)$
+(^|/)(biome\.json|tsconfig[^/]*\.json|ruff\.toml)$
+^bun\.lock$
+# Port oracle, parity cases and parity tests (docs/port/).
+^tests/parity/
+^scripts/oracle/
+^rust/crates/[^/]+/tests/parity_
+^rust/crates/pemdi-boundary/
+^rust/Cargo\.toml$
