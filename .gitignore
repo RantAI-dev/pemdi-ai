@@ -18,3 +18,12 @@ sumber/**
 !sumber/**/
 !sumber/*/manifest.json
 !sumber/*.txt
+
+# Dari template RantAI guidelines
+dist/
+.env.*
+!.env.example
+.plans/
+*.pyc
+.t3/
+target/
