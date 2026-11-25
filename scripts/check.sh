@@ -33,7 +33,7 @@ ts_paths='\.(ts|tsx|js|jsx|mjs|cjs)$|(^|/)(package\.json|bun\.lock|tsconfig[^/]*
 ts_full()  { bun run typecheck && { git ls-files '*.test.ts' '*.test.tsx' | grep -q . && bun test || true; }; }
 ts_fast()  { bunx biome lint --staged --no-errors-on-unmatched --only=suspicious/noExplicitAny; }
 
-rust_paths='^rust/|(^|/)Cargo\.(toml|lock)$'
+rust_paths='^rust/|^tests/parity/|(^|/)Cargo\.(toml|lock)$'
 rust_full() { (cd rust && cargo fmt --check && cargo clippy --workspace --all-targets -- -D warnings && cargo test --workspace); }
 rust_fast() { (cd rust && cargo fmt --check); }
 

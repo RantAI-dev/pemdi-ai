@@ -1,0 +1,15 @@
+[package]
+name = "pemdi-app"
+description = "Use cases: compose domain rules with ports. No HTTP, no concrete clients."
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+pemdi-ports = { workspace = true }
+pemdi-contracts = { workspace = true }

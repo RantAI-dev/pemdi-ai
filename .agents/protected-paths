@@ -17,3 +17,6 @@
 # Port oracle, parity cases and parity tests (docs/port/).
 ^tests/parity/
 ^scripts/oracle/
+^rust/crates/[^/]+/tests/parity_
+^rust/crates/pemdi-boundary/
+^rust/Cargo\.toml$

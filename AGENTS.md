@@ -11,7 +11,10 @@ PANRB 8/2026), Kinerja Makro, Capaian SPM, kesiapan OPD, dokumen bukti, dan tany
 |---|---|
 | Everything, before any handoff | `scripts/check.sh` (budget: 10 minutes) |
 | Only the parts your change can affect, while iterating | `scripts/check.sh --changed` (budget: 2 minutes) |
-| One test | `bun test src/lib/makro-hitung.test.ts -t "name"` |
+| One test | `bun test src/lib/makro-hitung.test.ts -t "name"`; Rust: `cd rust && cargo test -p pemdi-domain parity` |
+| Oracle (old TS code as spec) | `bun scripts/oracle/cases.ts <module>` writes `tests/parity/<module>.cases` |
+| Rust API locally | `cd rust && cargo run -p pemdi-api` → http://localhost:3200/api/health |
+| One backlog row | `scripts/backlog.sh get <ID>` (reads `docs/core/BACKLOG.md` on main; never read the whole file) |
 | Type check | `bun run typecheck` |
 | Run it locally | `bun run dev` → http://localhost:3100 (lakehouse: `scripts/lakehouse.sh up`) |
 | Deploy | `scripts/portainer.sh build <tag>` then `scripts/portainer.sh stack <tag>`; tag = `date -u +%Y%m%d%H%M` |
@@ -28,13 +31,26 @@ Dependencies point down this list, never up.
   Built by `scripts/{makro,spm,prosn}-bangun.ts` from `sumber/`; do not edit the JSON by hand.
 - `scripts/` — build, seed and deploy tooling. Not imported by the app.
 - `sumber/` — source PDFs. Only the manifests are in git; the files live in the Portainer volume.
+- `rust/` — the new backend (ADR 0001, 0002). `pemdi-domain` (pure) ← `pemdi-ports` ← `pemdi-app`
+  ← `pemdi-api`; `pemdi-adapters` implement ports; `pemdi-contracts` holds HTTP types.
+  `pemdi-boundary` fails the build on an upward dependency.
+- `scripts/oracle/`, `tests/parity/` — the port oracle and its generated cases. Protected.
+- `docs/core/` — product: PRODUCT, BACKLOG (the only board), features, specs, HANDOFF.
+  `docs/port/` — port plan and ledger. `docs/adr/` — decisions.
+
+The backend is being ported from TypeScript to Rust (`docs/port/README.md`). Do not add features to
+a module whose ledger row is "in progress"; new backend logic goes to Rust when its layer exists.
 
 ## Rules the gate enforces
 
 1. TypeScript strict; `bun run typecheck` must pass.
 2. Ratchet (`.agents/ratchet.tsv`): `any`, suppressions, Biome lint errors (`bunx biome lint .`)
    and ruff errors in `scripts/` may fall, never rise.
-3. A source file over 600 lines fails; `dasbor.tsx` and `kerangka/prosn.ts` are frozen and may only
+3. Rust: `cargo fmt --check`, clippy with `-D warnings` and the workspace lints (no `unwrap`,
+   `expect`, `panic!`, slice indexing outside tests; every `allow` has a `reason`), `cargo test`
+   including the parity and boundary tests.
+4. `.agents/error-codes.tsv` is the only source of error codes; `error_codes.rs` is generated.
+5. A source file over 600 lines fails (1,000 for Rust); `dasbor.tsx` and `kerangka/prosn.ts` are frozen and may only
    shrink (`.agents/size-baseline.tsv`).
 
 ## Conventions

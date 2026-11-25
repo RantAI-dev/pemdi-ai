@@ -1,0 +1,37 @@
+# Pemdi-AI backend. Layout and dependency direction: docs/adr/0002-rust-crate-layout.md.
+# The boundary test (crates/pemdi-boundary) fails when a crate imports a layer it must not.
+[workspace]
+resolver = "2"
+members = ["crates/*"]
+
+[workspace.package]
+edition = "2021"
+rust-version = "1.85"
+license = "UNLICENSED"
+publish = false
+
+[workspace.dependencies]
+pemdi-contracts = { path = "crates/pemdi-contracts" }
+pemdi-ports = { path = "crates/pemdi-ports" }
+pemdi-app = { path = "crates/pemdi-app" }
+pemdi-adapters = { path = "crates/pemdi-adapters" }
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["float_roundtrip"] }
+thiserror = "2"
+tokio = { version = "1", default-features = false, features = ["macros", "rt-multi-thread", "net", "signal"] }
+axum = { version = "0.8", default-features = false, features = ["http1", "json", "tokio", "query"] }
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", default-features = false, features = ["fmt", "env-filter", "json"] }
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
+todo = "deny"
+unimplemented = "deny"
+indexing_slicing = "deny"
+allow_attributes_without_reason = "deny"
+dbg_macro = "deny"

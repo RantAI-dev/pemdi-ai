@@ -10,6 +10,13 @@ rancangan produksi.
 
 *Gambar 1 — Arsitektur end-to-end: intake & OCR → RantAI Lakehouse → lapisan AI → dasbor. Versi SVG ada di [`arsitektur.svg`](arsitektur.svg); diagram Mermaid yang bisa diedit ada di bagian 3.*
 
+> **Arah berikutnya (2026-11-25).** Dokumen ini menggambarkan aplikasi Next.js yang berjalan
+> sekarang. Logika server sedang dipindahkan ke service Rust `pemdi-api` dengan lapisan
+> domain → ports → app → api ([ADR 0001](adr/0001-backend-rust.md),
+> [ADR 0002](adr/0002-rust-crate-layout.md)); Next.js menjadi UI yang memanggil API bertipe
+> ([ADR 0003](adr/0003-kontrak-api.md)). Komponen dan alurnya tetap sama; yang berpindah adalah
+> tempat kodenya. Kemajuan per modul: [`port/ledger.md`](port/ledger.md).
+
 Legenda status:
 
 | Tanda | Arti |
